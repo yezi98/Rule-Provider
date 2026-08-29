@@ -1021,7 +1021,7 @@ IP-CIDR,38.51.153.0/24,no-resolve
 IP-CIDR,38.51.226.0/24,no-resolve
 IP-CIDR,38.52.116.0/23,no-resolve
 IP-CIDR,38.52.193.0/24,no-resolve
-IP-CIDR,38.52.198.0/24,no-resolve
+IP-CIDR,38.52.198.0/23,no-resolve
 IP-CIDR,38.56.248.0/22,no-resolve
 IP-CIDR,38.56.68.0/24,no-resolve
 IP-CIDR,38.56.92.0/23,no-resolve

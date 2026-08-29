@@ -3,7 +3,7 @@
 # 奥地利（Austria）
 # 数据日期: 2026-08-29
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 2780 条（IPv4: 2088 / IPv6: 692）
+# 规则统计: 共 2779 条（IPv4: 2088 / IPv6: 691）
 # ============================================================
 payload:
   - IP-CIDR,103.203.180.0/22,no-resolve
@@ -2642,7 +2642,6 @@ payload:
   - IP-CIDR6,2a0c:b040::/29,no-resolve
   - IP-CIDR6,2a0c:b5c0::/29,no-resolve
   - IP-CIDR6,2a0c:b641:a30::/44,no-resolve
-  - IP-CIDR6,2a0c:b641:a50::/44,no-resolve
   - IP-CIDR6,2a0c:b641:b70::/44,no-resolve
   - IP-CIDR6,2a0c:b641:d10::/44,no-resolve
   - IP-CIDR6,2a0c:b641:de0::/44,no-resolve

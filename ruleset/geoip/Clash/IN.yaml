@@ -3,7 +3,7 @@
 # 印度（India）
 # 数据日期: 2026-08-29
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 11904 条（IPv4: 8901 / IPv6: 3003）
+# 规则统计: 共 11905 条（IPv4: 8902 / IPv6: 3003）
 # ============================================================
 payload:
   - IP-CIDR,1.10.10.0/24,no-resolve
@@ -7717,7 +7717,8 @@ payload:
   - IP-CIDR,38.224.124.0/22,no-resolve
   - IP-CIDR,38.224.141.0/24,no-resolve
   - IP-CIDR,38.224.232.0/23,no-resolve
-  - IP-CIDR,38.225.204.0/22,no-resolve
+  - IP-CIDR,38.225.204.0/23,no-resolve
+  - IP-CIDR,38.225.206.0/24,no-resolve
   - IP-CIDR,38.226.63.0/24,no-resolve
   - IP-CIDR,38.253.70.0/23,no-resolve
   - IP-CIDR,38.254.160.0/21,no-resolve

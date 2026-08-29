@@ -3,7 +3,7 @@
 # 德国（Germany）
 # 数据日期: 2026-08-29
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 14613 条（IPv4: 10698 / IPv6: 3915）
+# 规则统计: 共 14614 条（IPv4: 10699 / IPv6: 3915）
 # ============================================================
 payload:
   - IP-CIDR,100.42.176.0/20,no-resolve
@@ -94,7 +94,6 @@ payload:
   - IP-CIDR,109.109.0.0/19,no-resolve
   - IP-CIDR,109.109.192.0/20,no-resolve
   - IP-CIDR,109.110.180.0/24,no-resolve
-  - IP-CIDR,109.121.37.0/24,no-resolve
   - IP-CIDR,109.121.42.0/24,no-resolve
   - IP-CIDR,109.122.11.0/24,no-resolve
   - IP-CIDR,109.122.7.0/24,no-resolve
@@ -4930,6 +4929,7 @@ payload:
   - IP-CIDR,194.120.109.0/24,no-resolve
   - IP-CIDR,194.120.110.0/23,no-resolve
   - IP-CIDR,194.120.119.0/24,no-resolve
+  - IP-CIDR,194.120.121.0/24,no-resolve
   - IP-CIDR,194.120.126.0/24,no-resolve
   - IP-CIDR,194.120.150.0/24,no-resolve
   - IP-CIDR,194.120.16.0/23,no-resolve
@@ -7582,6 +7582,7 @@ payload:
   - IP-CIDR,44.130.98.0/23,no-resolve
   - IP-CIDR,44.30.115.0/24,no-resolve
   - IP-CIDR,44.30.185.0/24,no-resolve
+  - IP-CIDR,44.30.187.0/24,no-resolve
   - IP-CIDR,44.30.50.0/24,no-resolve
   - IP-CIDR,44.30.88.0/24,no-resolve
   - IP-CIDR,44.31.0.0/22,no-resolve

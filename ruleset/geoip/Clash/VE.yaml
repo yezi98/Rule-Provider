@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: VE
 # 委内瑞拉（Venezuela）
-# 数据日期: 2026-09-02
+# 数据日期: 2026-09-03
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 756 条（IPv4: 522 / IPv6: 234）
+# 规则统计: 共 761 条（IPv4: 526 / IPv6: 235）
 # ============================================================
 payload:
   - IP-CIDR,103.83.193.0/24,no-resolve
@@ -272,6 +272,7 @@ payload:
   - IP-CIDR,217.26.191.0/24,no-resolve
   - IP-CIDR,217.76.248.0/22,no-resolve
   - IP-CIDR,38.10.248.0/21,no-resolve
+  - IP-CIDR,38.103.210.0/24,no-resolve
   - IP-CIDR,38.106.30.0/24,no-resolve
   - IP-CIDR,38.108.119.0/24,no-resolve
   - IP-CIDR,38.121.208.0/20,no-resolve
@@ -303,19 +304,20 @@ payload:
   - IP-CIDR,38.17.192.0/18,no-resolve
   - IP-CIDR,38.171.0.0/16,no-resolve
   - IP-CIDR,38.172.138.0/23,no-resolve
-  - IP-CIDR,38.172.160.0/20,no-resolve
+  - IP-CIDR,38.172.160.0/21,no-resolve
+  - IP-CIDR,38.172.168.0/21,no-resolve
   - IP-CIDR,38.172.176.0/21,no-resolve
   - IP-CIDR,38.172.184.0/24,no-resolve
   - IP-CIDR,38.172.188.0/23,no-resolve
   - IP-CIDR,38.172.56.0/24,no-resolve
   - IP-CIDR,38.172.58.0/23,no-resolve
   - IP-CIDR,38.183.112.0/21,no-resolve
+  - IP-CIDR,38.183.184.0/24,no-resolve
   - IP-CIDR,38.183.192.0/21,no-resolve
   - IP-CIDR,38.183.212.0/22,no-resolve
   - IP-CIDR,38.183.224.0/19,no-resolve
   - IP-CIDR,38.188.200.0/23,no-resolve
-  - IP-CIDR,38.188.240.0/23,no-resolve
-  - IP-CIDR,38.188.242.0/24,no-resolve
+  - IP-CIDR,38.188.240.0/22,no-resolve
   - IP-CIDR,38.188.48.0/24,no-resolve
   - IP-CIDR,38.188.52.0/22,no-resolve
   - IP-CIDR,38.188.96.0/22,no-resolve
@@ -372,6 +374,7 @@ payload:
   - IP-CIDR,38.43.224.0/20,no-resolve
   - IP-CIDR,38.43.240.0/21,no-resolve
   - IP-CIDR,38.43.248.0/23,no-resolve
+  - IP-CIDR,38.43.251.0/24,no-resolve
   - IP-CIDR,38.43.252.0/22,no-resolve
   - IP-CIDR,38.45.32.0/21,no-resolve
   - IP-CIDR,38.45.92.0/24,no-resolve
@@ -403,6 +406,7 @@ payload:
   - IP-CIDR,38.61.248.0/21,no-resolve
   - IP-CIDR,38.63.64.0/18,no-resolve
   - IP-CIDR,38.64.172.0/23,no-resolve
+  - IP-CIDR,38.65.120.0/22,no-resolve
   - IP-CIDR,38.65.57.0/24,no-resolve
   - IP-CIDR,38.66.206.0/23,no-resolve
   - IP-CIDR,38.68.143.0/24,no-resolve
@@ -715,6 +719,7 @@ payload:
   - IP-CIDR6,2803:c2e0::/32,no-resolve
   - IP-CIDR6,2803:c330::/32,no-resolve
   - IP-CIDR6,2803:c590::/32,no-resolve
+  - IP-CIDR6,2803:c730::/32,no-resolve
   - IP-CIDR6,2803:c790::/32,no-resolve
   - IP-CIDR6,2803:c830::/32,no-resolve
   - IP-CIDR6,2803:c930::/32,no-resolve

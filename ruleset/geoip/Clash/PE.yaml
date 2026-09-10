@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: PE
 # 秘鲁（Peru）
-# 数据日期: 2026-09-09
+# 数据日期: 2026-09-10
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 773 条（IPv4: 502 / IPv6: 271）
+# 规则统计: 共 780 条（IPv4: 509 / IPv6: 271）
 # ============================================================
 payload:
   - IP-CIDR,104.164.148.0/24,no-resolve
@@ -31,7 +31,7 @@ payload:
   - IP-CIDR,138.36.147.0/24,no-resolve
   - IP-CIDR,138.59.64.0/22,no-resolve
   - IP-CIDR,138.94.18.0/24,no-resolve
-  - IP-CIDR,138.99.177.0/24,no-resolve
+  - IP-CIDR,138.99.176.0/23,no-resolve
   - IP-CIDR,138.99.179.0/24,no-resolve
   - IP-CIDR,143.0.248.0/22,no-resolve
   - IP-CIDR,143.137.144.0/22,no-resolve
@@ -297,6 +297,7 @@ payload:
   - IP-CIDR,38.187.0.0/19,no-resolve
   - IP-CIDR,38.188.100.0/23,no-resolve
   - IP-CIDR,38.19.100.0/24,no-resolve
+  - IP-CIDR,38.19.110.0/24,no-resolve
   - IP-CIDR,38.19.144.0/20,no-resolve
   - IP-CIDR,38.19.16.0/20,no-resolve
   - IP-CIDR,38.19.215.0/24,no-resolve
@@ -431,9 +432,16 @@ payload:
   - IP-CIDR,38.7.100.0/23,no-resolve
   - IP-CIDR,38.87.224.0/24,no-resolve
   - IP-CIDR,38.9.124.0/22,no-resolve
-  - IP-CIDR,38.9.192.0/20,no-resolve
+  - IP-CIDR,38.9.193.0/24,no-resolve
+  - IP-CIDR,38.9.194.0/23,no-resolve
+  - IP-CIDR,38.9.196.0/22,no-resolve
+  - IP-CIDR,38.9.201.0/24,no-resolve
+  - IP-CIDR,38.9.202.0/23,no-resolve
+  - IP-CIDR,38.9.205.0/24,no-resolve
+  - IP-CIDR,38.9.206.0/23,no-resolve
   - IP-CIDR,38.9.38.0/23,no-resolve
   - IP-CIDR,38.9.50.0/24,no-resolve
+  - IP-CIDR,45.155.58.0/23,no-resolve
   - IP-CIDR,45.166.72.0/24,no-resolve
   - IP-CIDR,45.167.228.0/22,no-resolve
   - IP-CIDR,45.169.100.0/22,no-resolve
@@ -504,7 +512,6 @@ payload:
   - IP-CIDR,8.243.103.0/24,no-resolve
   - IP-CIDR,8.243.126.0/24,no-resolve
   - IP-CIDR,89.32.178.0/24,no-resolve
-  - IP-CIDR,91.190.189.0/24,no-resolve
   - IP-CIDR,91.193.253.0/24,no-resolve
   - IP-CIDR,91.216.77.0/24,no-resolve
   - IP-CIDR,92.118.181.0/24,no-resolve

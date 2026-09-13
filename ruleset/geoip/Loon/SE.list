@@ -1,7 +1,7 @@
 # ============================================================
 # Rule-Provider: SE
 # 瑞典（Sweden）
-# 数据日期: 2026-09-11
+# 数据日期: 2026-09-13
 # 数据来源: APNIC + IPtoASN
 # 规则统计: 共 3325 条（IPv4: 2367 / IPv6: 958）
 # ============================================================
@@ -217,7 +217,6 @@ IP-CIDR,155.4.0.0/16,no-resolve
 IP-CIDR,156.49.0.0/16,no-resolve
 IP-CIDR,156.51.0.0/16,no-resolve
 IP-CIDR,157.10.210.0/23,no-resolve
-IP-CIDR,157.131.161.0/24,no-resolve
 IP-CIDR,157.171.0.0/16,no-resolve
 IP-CIDR,157.180.128.0/19,no-resolve
 IP-CIDR,157.180.160.0/20,no-resolve
@@ -1383,11 +1382,12 @@ IP-CIDR,199.180.195.0/24,no-resolve
 IP-CIDR,199.198.157.0/24,no-resolve
 IP-CIDR,199.198.158.0/24,no-resolve
 IP-CIDR,199.201.117.0/24,no-resolve
-IP-CIDR,199.253.104.0/22,no-resolve
+IP-CIDR,199.253.104.0/23,no-resolve
 IP-CIDR,199.253.108.0/23,no-resolve
 IP-CIDR,199.253.110.0/24,no-resolve
 IP-CIDR,199.253.96.0/21,no-resolve
 IP-CIDR,2.0.0.0/15,no-resolve
+IP-CIDR,2.152.76.0/24,no-resolve
 IP-CIDR,2.2.0.0/16,no-resolve
 IP-CIDR,2.248.0.0/14,no-resolve
 IP-CIDR,2.252.0.0/15,no-resolve
@@ -3220,7 +3220,7 @@ IP-CIDR6,2a0e:7440::/29,no-resolve
 IP-CIDR6,2a0e:8f02:1201::/48,no-resolve
 IP-CIDR6,2a0e:8f02:1210::/45,no-resolve
 IP-CIDR6,2a0e:8f02:1218::/46,no-resolve
-IP-CIDR6,2a0e:8f02:12f0::/46,no-resolve
+IP-CIDR6,2a0e:8f02:12f3::/48,no-resolve
 IP-CIDR6,2a0e:8f02:2171::/48,no-resolve
 IP-CIDR6,2a0e:97c0:1d0::/44,no-resolve
 IP-CIDR6,2a0e:97c0:e60::/44,no-resolve

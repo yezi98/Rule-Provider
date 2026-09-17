@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: LV
 # 拉脱维亚（Latvia）
-# 数据日期: 2026-09-16
+# 数据日期: 2026-09-17
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 1094 条（IPv4: 881 / IPv6: 213）
+# 规则统计: 共 1091 条（IPv4: 878 / IPv6: 213）
 # ============================================================
 payload:
   - IP-CIDR,103.101.86.0/24,no-resolve
@@ -491,12 +491,10 @@ payload:
   - IP-CIDR,31.76.104.0/22,no-resolve
   - IP-CIDR,31.76.122.0/24,no-resolve
   - IP-CIDR,31.77.109.0/24,no-resolve
-  - IP-CIDR,31.77.116.0/24,no-resolve
   - IP-CIDR,31.77.127.0/24,no-resolve
   - IP-CIDR,31.77.138.0/24,no-resolve
   - IP-CIDR,31.77.168.0/24,no-resolve
   - IP-CIDR,31.77.170.0/24,no-resolve
-  - IP-CIDR,31.77.217.0/24,no-resolve
   - IP-CIDR,31.77.219.0/24,no-resolve
   - IP-CIDR,31.77.220.0/24,no-resolve
   - IP-CIDR,31.77.229.0/24,no-resolve
@@ -688,7 +686,6 @@ payload:
   - IP-CIDR,80.254.208.0/20,no-resolve
   - IP-CIDR,80.255.224.0/20,no-resolve
   - IP-CIDR,80.68.145.0/24,no-resolve
-  - IP-CIDR,80.68.158.0/24,no-resolve
   - IP-CIDR,80.70.16.0/20,no-resolve
   - IP-CIDR,80.81.32.0/19,no-resolve
   - IP-CIDR,80.89.224.0/24,no-resolve

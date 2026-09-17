@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: AZ
 # 阿塞拜疆（Azerbaijan）
-# 数据日期: 2026-09-16
+# 数据日期: 2026-09-17
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 293 条（IPv4: 201 / IPv6: 92）
+# 规则统计: 共 294 条（IPv4: 201 / IPv6: 93）
 # ============================================================
 payload:
   - IP-CIDR,109.104.102.0/23,no-resolve
@@ -275,6 +275,7 @@ payload:
   - IP-CIDR6,2a0d:4dc0::/32,no-resolve
   - IP-CIDR6,2a0d:d700::/29,no-resolve
   - IP-CIDR6,2a0e:9ec0::/29,no-resolve
+  - IP-CIDR6,2a0e:aec0::/29,no-resolve
   - IP-CIDR6,2a0e:ef40::/29,no-resolve
   - IP-CIDR6,2a0f:1300::/29,no-resolve
   - IP-CIDR6,2a0f:4a40::/29,no-resolve

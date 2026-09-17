@@ -1,7 +1,7 @@
 # ============================================================
 # Rule-Provider: AU
 # 澳大利亚（Australia）
-# 数据日期: 2026-09-16
+# 数据日期: 2026-09-17
 # 数据来源: APNIC + IPtoASN
 # 规则统计: 共 9443 条（IPv4: 7080 / IPv6: 2363）
 # ============================================================
@@ -3166,6 +3166,7 @@ IP-CIDR,168.81.8.0/22,no-resolve
 IP-CIDR,168.88.116.0/22,no-resolve
 IP-CIDR,169.148.168.0/22,no-resolve
 IP-CIDR,169.201.0.0/16,no-resolve
+IP-CIDR,169.40.8.0/24,no-resolve
 IP-CIDR,170.10.134.0/23,no-resolve
 IP-CIDR,170.10.68.0/23,no-resolve
 IP-CIDR,170.157.0.0/16,no-resolve
@@ -3378,7 +3379,6 @@ IP-CIDR,185.248.0.0/23,no-resolve
 IP-CIDR,185.248.184.0/22,no-resolve
 IP-CIDR,185.248.87.0/24,no-resolve
 IP-CIDR,185.254.56.0/22,no-resolve
-IP-CIDR,185.255.130.0/24,no-resolve
 IP-CIDR,185.255.36.0/22,no-resolve
 IP-CIDR,185.29.210.0/24,no-resolve
 IP-CIDR,185.29.228.0/23,no-resolve

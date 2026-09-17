@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: TR
 # 土耳其（Turkey）
-# 数据日期: 2026-09-16
+# 数据日期: 2026-09-17
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 3143 条（IPv4: 2276 / IPv6: 867）
+# 规则统计: 共 3144 条（IPv4: 2278 / IPv6: 866）
 # ============================================================
 IP-CIDR,102.140.0.0/23,no-resolve
 IP-CIDR,103.125.147.0/24,no-resolve
@@ -1214,6 +1214,7 @@ IP-CIDR,2.27.101.0/24,no-resolve
 IP-CIDR,2.27.150.0/24,no-resolve
 IP-CIDR,2.27.78.0/24,no-resolve
 IP-CIDR,2.27.85.0/24,no-resolve
+IP-CIDR,2.27.91.0/24,no-resolve
 IP-CIDR,2.56.108.0/23,no-resolve
 IP-CIDR,2.56.111.0/24,no-resolve
 IP-CIDR,2.56.127.0/24,no-resolve
@@ -1785,6 +1786,7 @@ IP-CIDR,64.74.197.0/24,no-resolve
 IP-CIDR,64.95.148.0/24,no-resolve
 IP-CIDR,64.95.48.0/24,no-resolve
 IP-CIDR,66.228.84.0/22,no-resolve
+IP-CIDR,69.48.145.0/24,no-resolve
 IP-CIDR,70.40.136.0/21,no-resolve
 IP-CIDR,72.18.67.0/24,no-resolve
 IP-CIDR,74.80.168.0/24,no-resolve
@@ -2988,7 +2990,6 @@ IP-CIDR6,2a11:5dc0::/29,no-resolve
 IP-CIDR6,2a11:5fc0::/29,no-resolve
 IP-CIDR6,2a11:8200::/29,no-resolve
 IP-CIDR6,2a11:8c0::/29,no-resolve
-IP-CIDR6,2a11:9380::/29,no-resolve
 IP-CIDR6,2a11:940::/29,no-resolve
 IP-CIDR6,2a11:94c0::/29,no-resolve
 IP-CIDR6,2a11:be80::/30,no-resolve

@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: PK
 # 巴基斯坦（Pakistan）
-# 数据日期: 2026-09-16
+# 数据日期: 2026-09-17
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 1264 条（IPv4: 912 / IPv6: 352）
+# 规则统计: 共 1259 条（IPv4: 907 / IPv6: 352）
 # ============================================================
 payload:
   - IP-CIDR,101.50.64.0/18,no-resolve
@@ -525,9 +525,9 @@ payload:
   - IP-CIDR,144.79.76.0/24,no-resolve
   - IP-CIDR,147.90.100.0/24,no-resolve
   - IP-CIDR,147.90.102.0/23,no-resolve
-  - IP-CIDR,147.90.96.0/22,no-resolve
+  - IP-CIDR,147.90.98.0/23,no-resolve
   - IP-CIDR,148.135.199.0/24,no-resolve
-  - IP-CIDR,149.13.55.0/24,no-resolve
+  - IP-CIDR,149.13.54.0/23,no-resolve
   - IP-CIDR,149.40.128.0/20,no-resolve
   - IP-CIDR,149.40.160.0/20,no-resolve
   - IP-CIDR,149.40.192.0/19,no-resolve
@@ -566,8 +566,7 @@ payload:
   - IP-CIDR,154.192.192.0/21,no-resolve
   - IP-CIDR,154.192.200.0/22,no-resolve
   - IP-CIDR,154.192.204.0/22,no-resolve
-  - IP-CIDR,154.192.208.0/21,no-resolve
-  - IP-CIDR,154.192.216.0/21,no-resolve
+  - IP-CIDR,154.192.208.0/20,no-resolve
   - IP-CIDR,154.192.224.0/20,no-resolve
   - IP-CIDR,154.192.240.0/21,no-resolve
   - IP-CIDR,154.192.248.0/21,no-resolve
@@ -801,11 +800,7 @@ payload:
   - IP-CIDR,204.157.152.0/23,no-resolve
   - IP-CIDR,204.157.158.0/24,no-resolve
   - IP-CIDR,205.164.128.0/19,no-resolve
-  - IP-CIDR,206.0.192.0/20,no-resolve
-  - IP-CIDR,206.0.208.0/22,no-resolve
-  - IP-CIDR,206.0.212.0/24,no-resolve
-  - IP-CIDR,206.0.215.0/24,no-resolve
-  - IP-CIDR,206.0.216.0/21,no-resolve
+  - IP-CIDR,206.0.192.0/19,no-resolve
   - IP-CIDR,206.135.160.0/23,no-resolve
   - IP-CIDR,206.135.185.0/24,no-resolve
   - IP-CIDR,206.206.83.0/24,no-resolve
@@ -842,9 +837,9 @@ payload:
   - IP-CIDR,38.117.64.0/23,no-resolve
   - IP-CIDR,38.125.248.0/21,no-resolve
   - IP-CIDR,38.211.45.0/24,no-resolve
-  - IP-CIDR,38.249.0.0/24,no-resolve
-  - IP-CIDR,38.249.3.0/24,no-resolve
-  - IP-CIDR,38.249.8.0/24,no-resolve
+  - IP-CIDR,38.249.0.0/21,no-resolve
+  - IP-CIDR,38.249.28.0/22,no-resolve
+  - IP-CIDR,38.249.8.0/22,no-resolve
   - IP-CIDR,38.68.84.0/22,no-resolve
   - IP-CIDR,38.78.192.0/23,no-resolve
   - IP-CIDR,39.32.0.0/11,no-resolve

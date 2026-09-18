@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: IT
 # 意大利（Italy）
-# 数据日期: 2026-09-17
+# 数据日期: 2026-09-18
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 5430 条（IPv4: 4146 / IPv6: 1284）
+# 规则统计: 共 5429 条（IPv4: 4145 / IPv6: 1284）
 # ============================================================
 payload:
   - IP-CIDR,101.56.0.0/13,no-resolve
@@ -2715,7 +2715,6 @@ payload:
   - IP-CIDR,37.77.96.0/21,no-resolve
   - IP-CIDR,37.9.224.0/20,no-resolve
   - IP-CIDR,37.99.224.0/19,no-resolve
-  - IP-CIDR,38.10.140.0/22,no-resolve
   - IP-CIDR,38.210.94.0/23,no-resolve
   - IP-CIDR,38.211.244.0/24,no-resolve
   - IP-CIDR,38.211.98.0/24,no-resolve

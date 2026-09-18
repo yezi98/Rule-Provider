@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: PK
 # 巴基斯坦（Pakistan）
-# 数据日期: 2026-09-17
+# 数据日期: 2026-09-18
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 1259 条（IPv4: 907 / IPv6: 352）
+# 规则统计: 共 1258 条（IPv4: 905 / IPv6: 353）
 # ============================================================
 IP-CIDR,101.50.64.0/18,no-resolve
 IP-CIDR,101.53.224.0/19,no-resolve
@@ -524,7 +524,7 @@ IP-CIDR,144.79.56.0/23,no-resolve
 IP-CIDR,144.79.76.0/24,no-resolve
 IP-CIDR,147.90.100.0/24,no-resolve
 IP-CIDR,147.90.102.0/23,no-resolve
-IP-CIDR,147.90.98.0/23,no-resolve
+IP-CIDR,147.90.96.0/22,no-resolve
 IP-CIDR,148.135.199.0/24,no-resolve
 IP-CIDR,149.13.54.0/23,no-resolve
 IP-CIDR,149.40.128.0/20,no-resolve
@@ -556,8 +556,6 @@ IP-CIDR,151.245.255.0/24,no-resolve
 IP-CIDR,153.117.0.0/16,no-resolve
 IP-CIDR,154.16.179.0/24,no-resolve
 IP-CIDR,154.192.0.0/19,no-resolve
-IP-CIDR,154.192.112.0/21,no-resolve
-IP-CIDR,154.192.120.0/21,no-resolve
 IP-CIDR,154.192.128.0/20,no-resolve
 IP-CIDR,154.192.144.0/21,no-resolve
 IP-CIDR,154.192.152.0/21,no-resolve
@@ -573,7 +571,7 @@ IP-CIDR,154.192.32.0/19,no-resolve
 IP-CIDR,154.192.64.0/21,no-resolve
 IP-CIDR,154.192.72.0/21,no-resolve
 IP-CIDR,154.192.80.0/20,no-resolve
-IP-CIDR,154.192.96.0/20,no-resolve
+IP-CIDR,154.192.96.0/19,no-resolve
 IP-CIDR,154.198.13.0/24,no-resolve
 IP-CIDR,154.198.64.0/18,no-resolve
 IP-CIDR,154.208.32.0/19,no-resolve
@@ -1195,6 +1193,7 @@ IP-CIDR6,2402:6a60::/32,no-resolve
 IP-CIDR6,2402:7220::/32,no-resolve
 IP-CIDR6,2402:7260::/32,no-resolve
 IP-CIDR6,2402:7520::/32,no-resolve
+IP-CIDR6,2402:7660::/32,no-resolve
 IP-CIDR6,2402:7c00::/32,no-resolve
 IP-CIDR6,2402:7e0::/32,no-resolve
 IP-CIDR6,2402:9640::/32,no-resolve

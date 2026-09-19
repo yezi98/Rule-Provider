@@ -1,7 +1,7 @@
 # ============================================================
 # Rule-Provider: CO
 # 哥伦比亚（Colombia）
-# 数据日期: 2026-09-18
+# 数据日期: 2026-09-19
 # 数据来源: APNIC + IPtoASN
 # 规则统计: 共 1655 条（IPv4: 851 / IPv6: 804）
 # ============================================================
@@ -1388,8 +1388,7 @@ IP-CIDR6,2803:4860::/32,no-resolve
 IP-CIDR6,2803:4890::/32,no-resolve
 IP-CIDR6,2803:4930::/32,no-resolve
 IP-CIDR6,2803:4a50::/32,no-resolve
-IP-CIDR6,2803:4a90:2::/47,no-resolve
-IP-CIDR6,2803:4a90:4::/48,no-resolve
+IP-CIDR6,2803:4a90:3::/48,no-resolve
 IP-CIDR6,2803:4a90:8306::/48,no-resolve
 IP-CIDR6,2803:4d20::/32,no-resolve
 IP-CIDR6,2803:4d90::/32,no-resolve
@@ -1531,6 +1530,7 @@ IP-CIDR6,2803:af90::/32,no-resolve
 IP-CIDR6,2803:b000::/32,no-resolve
 IP-CIDR6,2803:b050::/32,no-resolve
 IP-CIDR6,2803:b0e0:7000::/48,no-resolve
+IP-CIDR6,2803:b0e0:7005::/48,no-resolve
 IP-CIDR6,2803:b10::/32,no-resolve
 IP-CIDR6,2803:b1e0::/32,no-resolve
 IP-CIDR6,2803:b2a0::/32,no-resolve

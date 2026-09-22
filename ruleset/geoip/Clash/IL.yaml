@@ -1,7 +1,7 @@
 # ============================================================
 # Rule-Provider: IL
 # 以色列（Israel）
-# 数据日期: 2026-09-21
+# 数据日期: 2026-09-22
 # 数据来源: APNIC + IPtoASN
 # 规则统计: 共 1399 条（IPv4: 1164 / IPv6: 235）
 # ============================================================
@@ -192,7 +192,6 @@ payload:
   - IP-CIDR,169.196.48.0/23,no-resolve
   - IP-CIDR,169.196.52.0/23,no-resolve
   - IP-CIDR,169.196.56.0/23,no-resolve
-  - IP-CIDR,169.196.65.0/24,no-resolve
   - IP-CIDR,169.196.66.0/24,no-resolve
   - IP-CIDR,169.196.68.0/23,no-resolve
   - IP-CIDR,169.196.76.0/22,no-resolve
@@ -631,6 +630,7 @@ payload:
   - IP-CIDR,210.242.186.0/24,no-resolve
   - IP-CIDR,210.242.83.0/24,no-resolve
   - IP-CIDR,210.61.114.0/24,no-resolve
+  - IP-CIDR,211.47.61.0/24,no-resolve
   - IP-CIDR,212.100.64.0/20,no-resolve
   - IP-CIDR,212.100.80.0/23,no-resolve
   - IP-CIDR,212.100.82.0/24,no-resolve

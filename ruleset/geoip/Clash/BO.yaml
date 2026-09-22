@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: BO
 # 玻利维亚（Bolivia）
-# 数据日期: 2026-09-21
+# 数据日期: 2026-09-22
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 192 条（IPv4: 133 / IPv6: 59）
+# 规则统计: 共 194 条（IPv4: 134 / IPv6: 60）
 # ============================================================
 payload:
   - IP-CIDR,131.0.0.0/22,no-resolve
@@ -139,6 +139,7 @@ payload:
   - IP-CIDR,82.25.32.0/24,no-resolve
   - IP-CIDR,82.29.148.0/24,no-resolve
   - IP-CIDR,91.202.214.0/24,no-resolve
+  - IP-CIDR,91.244.144.0/23,no-resolve
   - IP-CIDR6,2001:1378::/32,no-resolve
   - IP-CIDR6,2800:320::/32,no-resolve
   - IP-CIDR6,2800:390::/32,no-resolve
@@ -198,3 +199,4 @@ payload:
   - IP-CIDR6,2803:fa00::/32,no-resolve
   - IP-CIDR6,2a0a:6040:9800::/48,no-resolve
   - IP-CIDR6,2a0a:6040:98fe::/47,no-resolve
+  - IP-CIDR6,2a13:c8c3:e804::/48,no-resolve

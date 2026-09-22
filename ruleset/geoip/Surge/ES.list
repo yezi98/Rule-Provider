@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: ES
 # 西班牙（Spain）
-# 数据日期: 2026-09-21
+# 数据日期: 2026-09-22
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 5265 条（IPv4: 4036 / IPv6: 1229）
+# 规则统计: 共 5263 条（IPv4: 4036 / IPv6: 1227）
 # ============================================================
 IP-CIDR,1.178.224.0/19,no-resolve
 IP-CIDR,102.177.129.0/24,no-resolve
@@ -4048,13 +4048,11 @@ IP-CIDR6,2001:31c0::/29,no-resolve
 IP-CIDR6,2001:3786:1111::/48,no-resolve
 IP-CIDR6,2001:3786:1500::/48,no-resolve
 IP-CIDR6,2001:3786:1600::/48,no-resolve
-IP-CIDR6,2001:3786:1650::/48,no-resolve
-IP-CIDR6,2001:3786:1877::/48,no-resolve
 IP-CIDR6,2001:3786:1997::/48,no-resolve
 IP-CIDR6,2001:3786:1::/48,no-resolve
 IP-CIDR6,2001:3786:2000::/47,no-resolve
 IP-CIDR6,2001:3786:2003::/48,no-resolve
-IP-CIDR6,2001:3786:2004::/47,no-resolve
+IP-CIDR6,2001:3786:2005::/48,no-resolve
 IP-CIDR6,2001:3786:2007::/48,no-resolve
 IP-CIDR6,2001:3786:2008::/48,no-resolve
 IP-CIDR6,2001:3786:2015::/48,no-resolve
@@ -4088,7 +4086,7 @@ IP-CIDR6,2001:3786:4848::/48,no-resolve
 IP-CIDR6,2001:3786:4949::/48,no-resolve
 IP-CIDR6,2001:3786:5000::/47,no-resolve
 IP-CIDR6,2001:3786:5003::/48,no-resolve
-IP-CIDR6,2001:3786:5004::/47,no-resolve
+IP-CIDR6,2001:3786:5005::/48,no-resolve
 IP-CIDR6,2001:3786:5007::/48,no-resolve
 IP-CIDR6,2001:3786:5008::/47,no-resolve
 IP-CIDR6,2001:3786:5010::/47,no-resolve

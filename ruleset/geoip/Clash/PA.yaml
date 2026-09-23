@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: PA
 # 巴拿马（Panama）
-# 数据日期: 2026-09-22
+# 数据日期: 2026-09-23
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 1476 条（IPv4: 1040 / IPv6: 436）
+# 规则统计: 共 1481 条（IPv4: 1042 / IPv6: 439）
 # ============================================================
 payload:
   - IP-CIDR,103.173.150.0/23,no-resolve
@@ -62,12 +62,11 @@ payload:
   - IP-CIDR,151.240.254.0/24,no-resolve
   - IP-CIDR,151.240.33.0/24,no-resolve
   - IP-CIDR,151.240.34.0/24,no-resolve
-  - IP-CIDR,151.240.36.0/23,no-resolve
+  - IP-CIDR,151.240.36.0/24,no-resolve
   - IP-CIDR,151.240.88.0/24,no-resolve
   - IP-CIDR,151.240.90.0/24,no-resolve
   - IP-CIDR,151.244.107.0/24,no-resolve
   - IP-CIDR,151.244.36.0/24,no-resolve
-  - IP-CIDR,151.244.55.0/24,no-resolve
   - IP-CIDR,151.244.60.0/24,no-resolve
   - IP-CIDR,151.248.64.0/22,no-resolve
   - IP-CIDR,151.248.92.0/23,no-resolve
@@ -130,6 +129,7 @@ payload:
   - IP-CIDR,170.82.247.0/24,no-resolve
   - IP-CIDR,170.83.10.0/23,no-resolve
   - IP-CIDR,170.83.240.0/22,no-resolve
+  - IP-CIDR,171.22.60.0/23,no-resolve
   - IP-CIDR,172.216.0.0/16,no-resolve
   - IP-CIDR,172.98.169.0/24,no-resolve
   - IP-CIDR,172.98.178.0/24,no-resolve
@@ -780,6 +780,8 @@ payload:
   - IP-CIDR,82.22.171.0/24,no-resolve
   - IP-CIDR,82.22.22.0/24,no-resolve
   - IP-CIDR,82.23.0.0/23,no-resolve
+  - IP-CIDR,82.24.28.0/24,no-resolve
+  - IP-CIDR,82.24.47.0/24,no-resolve
   - IP-CIDR,82.26.159.0/24,no-resolve
   - IP-CIDR,82.26.162.0/24,no-resolve
   - IP-CIDR,82.26.195.0/24,no-resolve
@@ -978,7 +980,7 @@ payload:
   - IP-CIDR,89.117.34.0/24,no-resolve
   - IP-CIDR,89.117.39.0/24,no-resolve
   - IP-CIDR,89.117.4.0/24,no-resolve
-  - IP-CIDR,89.117.40.0/23,no-resolve
+  - IP-CIDR,89.117.41.0/24,no-resolve
   - IP-CIDR,89.117.42.0/24,no-resolve
   - IP-CIDR,89.117.44.0/22,no-resolve
   - IP-CIDR,89.117.86.0/24,no-resolve
@@ -1127,7 +1129,8 @@ payload:
   - IP-CIDR6,2803:2540:20::/44,no-resolve
   - IP-CIDR6,2803:2540:210::/45,no-resolve
   - IP-CIDR6,2803:2540:218::/45,no-resolve
-  - IP-CIDR6,2803:2540:220::/44,no-resolve
+  - IP-CIDR6,2803:2540:220::/45,no-resolve
+  - IP-CIDR6,2803:2540:228::/45,no-resolve
   - IP-CIDR6,2803:2540:230::/45,no-resolve
   - IP-CIDR6,2803:2540:238::/45,no-resolve
   - IP-CIDR6,2803:2540:240::/44,no-resolve
@@ -1350,7 +1353,9 @@ payload:
   - IP-CIDR6,2803:bc40:a090::/46,no-resolve
   - IP-CIDR6,2803:bc40:a094::/46,no-resolve
   - IP-CIDR6,2803:bc40:a098::/45,no-resolve
-  - IP-CIDR6,2803:bc40:a0a0::/44,no-resolve
+  - IP-CIDR6,2803:bc40:a0a0::/45,no-resolve
+  - IP-CIDR6,2803:bc40:a0a8::/46,no-resolve
+  - IP-CIDR6,2803:bc40:a0ac::/46,no-resolve
   - IP-CIDR6,2803:bc40:a0b0::/44,no-resolve
   - IP-CIDR6,2803:bc40:a0c0::/44,no-resolve
   - IP-CIDR6,2803:bc40:a0d0::/44,no-resolve

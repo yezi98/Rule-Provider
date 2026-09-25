@@ -1,7 +1,7 @@
 # ============================================================
 # Rule-Provider: UA
 # 乌克兰（Ukraine）
-# 数据日期: 2026-09-24
+# 数据日期: 2026-09-25
 # 数据来源: APNIC + IPtoASN
 # 规则统计: 共 4814 条（IPv4: 4004 / IPv6: 810）
 # ============================================================
@@ -439,10 +439,7 @@ IP-CIDR,156.243.248.0/23,no-resolve
 IP-CIDR,156.243.254.0/24,no-resolve
 IP-CIDR,156.243.32.0/23,no-resolve
 IP-CIDR,156.243.80.0/24,no-resolve
-IP-CIDR,156.246.129.0/24,no-resolve
-IP-CIDR,156.246.130.0/23,no-resolve
-IP-CIDR,156.246.132.0/22,no-resolve
-IP-CIDR,156.246.136.0/21,no-resolve
+IP-CIDR,156.246.128.0/20,no-resolve
 IP-CIDR,156.246.144.0/22,no-resolve
 IP-CIDR,156.246.148.0/23,no-resolve
 IP-CIDR,156.246.161.0/24,no-resolve
@@ -479,6 +476,7 @@ IP-CIDR,159.200.244.0/22,no-resolve
 IP-CIDR,159.224.0.0/16,no-resolve
 IP-CIDR,160.238.124.0/22,no-resolve
 IP-CIDR,163.5.137.0/24,no-resolve
+IP-CIDR,164.215.101.0/24,no-resolve
 IP-CIDR,166.0.216.0/24,no-resolve
 IP-CIDR,166.1.140.0/24,no-resolve
 IP-CIDR,166.1.229.0/24,no-resolve
@@ -628,7 +626,7 @@ IP-CIDR,176.97.199.0/24,no-resolve
 IP-CIDR,176.97.203.0/24,no-resolve
 IP-CIDR,176.97.204.0/23,no-resolve
 IP-CIDR,176.97.208.0/24,no-resolve
-IP-CIDR,176.97.222.0/24,no-resolve
+IP-CIDR,176.97.222.0/23,no-resolve
 IP-CIDR,176.97.56.0/21,no-resolve
 IP-CIDR,176.98.0.0/19,no-resolve
 IP-CIDR,176.98.64.0/19,no-resolve
@@ -869,7 +867,7 @@ IP-CIDR,185.179.176.0/24,no-resolve
 IP-CIDR,185.179.178.0/24,no-resolve
 IP-CIDR,185.179.212.0/22,no-resolve
 IP-CIDR,185.181.16.0/22,no-resolve
-IP-CIDR,185.181.167.0/24,no-resolve
+IP-CIDR,185.181.166.0/23,no-resolve
 IP-CIDR,185.181.36.0/22,no-resolve
 IP-CIDR,185.182.100.0/22,no-resolve
 IP-CIDR,185.183.108.0/22,no-resolve
@@ -2349,6 +2347,8 @@ IP-CIDR,213.110.112.0/21,no-resolve
 IP-CIDR,213.110.120.0/21,no-resolve
 IP-CIDR,213.110.128.0/18,no-resolve
 IP-CIDR,213.110.96.0/20,no-resolve
+IP-CIDR,213.111.148.0/23,no-resolve
+IP-CIDR,213.111.150.0/24,no-resolve
 IP-CIDR,213.111.192.0/18,no-resolve
 IP-CIDR,213.111.64.0/18,no-resolve
 IP-CIDR,213.130.0.0/19,no-resolve
@@ -3758,7 +3758,7 @@ IP-CIDR,91.246.62.0/24,no-resolve
 IP-CIDR,91.247.161.0/24,no-resolve
 IP-CIDR,91.247.162.0/24,no-resolve
 IP-CIDR,91.247.165.0/24,no-resolve
-IP-CIDR,91.247.167.0/24,no-resolve
+IP-CIDR,91.247.166.0/23,no-resolve
 IP-CIDR,91.247.169.0/24,no-resolve
 IP-CIDR,91.247.170.0/24,no-resolve
 IP-CIDR,91.247.173.0/24,no-resolve
@@ -3778,6 +3778,7 @@ IP-CIDR,92.118.136.0/22,no-resolve
 IP-CIDR,92.118.220.0/22,no-resolve
 IP-CIDR,92.118.224.0/22,no-resolve
 IP-CIDR,92.118.76.0/22,no-resolve
+IP-CIDR,92.119.231.0/24,no-resolve
 IP-CIDR,92.119.240.0/22,no-resolve
 IP-CIDR,92.242.100.0/23,no-resolve
 IP-CIDR,92.244.96.0/19,no-resolve
@@ -3885,8 +3886,7 @@ IP-CIDR,94.131.192.0/23,no-resolve
 IP-CIDR,94.131.194.0/24,no-resolve
 IP-CIDR,94.131.196.0/22,no-resolve
 IP-CIDR,94.131.204.0/22,no-resolve
-IP-CIDR,94.131.208.0/22,no-resolve
-IP-CIDR,94.131.212.0/23,no-resolve
+IP-CIDR,94.131.208.0/21,no-resolve
 IP-CIDR,94.131.216.0/24,no-resolve
 IP-CIDR,94.131.219.0/24,no-resolve
 IP-CIDR,94.131.220.0/24,no-resolve

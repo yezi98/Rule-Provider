@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: IN
 # 印度（India）
-# 数据日期: 2026-09-25
+# 数据日期: 2026-09-26
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 11999 条（IPv4: 8974 / IPv6: 3025）
+# 规则统计: 共 12000 条（IPv4: 8975 / IPv6: 3025）
 # ============================================================
 IP-CIDR,1.10.10.0/24,no-resolve
 IP-CIDR,1.186.254.0/24,no-resolve
@@ -5156,6 +5156,7 @@ IP-CIDR,145.79.134.0/24,no-resolve
 IP-CIDR,145.79.163.0/24,no-resolve
 IP-CIDR,146.19.206.0/24,no-resolve
 IP-CIDR,146.19.37.0/24,no-resolve
+IP-CIDR,146.19.56.0/24,no-resolve
 IP-CIDR,146.196.120.0/22,no-resolve
 IP-CIDR,146.196.32.0/21,no-resolve
 IP-CIDR,146.196.44.0/22,no-resolve
@@ -5282,7 +5283,6 @@ IP-CIDR,151.242.187.0/24,no-resolve
 IP-CIDR,151.242.195.0/24,no-resolve
 IP-CIDR,151.242.37.0/24,no-resolve
 IP-CIDR,151.242.51.0/24,no-resolve
-IP-CIDR,151.242.92.0/24,no-resolve
 IP-CIDR,151.243.12.0/24,no-resolve
 IP-CIDR,151.243.146.0/24,no-resolve
 IP-CIDR,151.243.40.0/24,no-resolve
@@ -6757,6 +6757,7 @@ IP-CIDR,198.217.248.0/23,no-resolve
 IP-CIDR,198.23.161.0/24,no-resolve
 IP-CIDR,198.46.163.0/24,no-resolve
 IP-CIDR,198.46.219.0/24,no-resolve
+IP-CIDR,198.51.6.0/23,no-resolve
 IP-CIDR,198.55.100.0/24,no-resolve
 IP-CIDR,198.55.104.0/23,no-resolve
 IP-CIDR,198.55.106.0/24,no-resolve
@@ -7457,7 +7458,7 @@ IP-CIDR,217.194.152.0/24,no-resolve
 IP-CIDR,217.195.144.0/22,no-resolve
 IP-CIDR,217.197.103.0/24,no-resolve
 IP-CIDR,217.22.228.0/23,no-resolve
-IP-CIDR,217.60.72.0/22,no-resolve
+IP-CIDR,217.60.74.0/23,no-resolve
 IP-CIDR,217.77.101.0/24,no-resolve
 IP-CIDR,217.77.103.0/24,no-resolve
 IP-CIDR,217.8.220.0/23,no-resolve
@@ -7674,7 +7675,9 @@ IP-CIDR,31.58.66.0/24,no-resolve
 IP-CIDR,31.58.8.0/24,no-resolve
 IP-CIDR,31.58.80.0/22,no-resolve
 IP-CIDR,31.59.118.0/24,no-resolve
-IP-CIDR,31.59.176.0/21,no-resolve
+IP-CIDR,31.59.176.0/22,no-resolve
+IP-CIDR,31.59.181.0/24,no-resolve
+IP-CIDR,31.59.183.0/24,no-resolve
 IP-CIDR,31.59.248.0/22,no-resolve
 IP-CIDR,31.59.252.0/23,no-resolve
 IP-CIDR,31.59.48.0/22,no-resolve
@@ -7810,7 +7813,6 @@ IP-CIDR,38.31.244.0/22,no-resolve
 IP-CIDR,38.31.248.0/21,no-resolve
 IP-CIDR,38.35.96.0/19,no-resolve
 IP-CIDR,38.45.94.0/24,no-resolve
-IP-CIDR,38.49.100.0/22,no-resolve
 IP-CIDR,38.58.98.0/24,no-resolve
 IP-CIDR,38.65.29.0/24,no-resolve
 IP-CIDR,38.67.193.0/24,no-resolve
@@ -8732,7 +8734,6 @@ IP-CIDR,80.65.216.0/22,no-resolve
 IP-CIDR,80.73.243.0/24,no-resolve
 IP-CIDR,80.94.91.0/24,no-resolve
 IP-CIDR,81.21.232.0/22,no-resolve
-IP-CIDR,81.29.148.0/24,no-resolve
 IP-CIDR,81.92.216.0/24,no-resolve
 IP-CIDR,82.115.213.0/24,no-resolve
 IP-CIDR,82.115.215.0/24,no-resolve

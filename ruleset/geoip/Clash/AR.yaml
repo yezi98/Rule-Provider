@@ -1,7 +1,7 @@
 # ============================================================
 # Rule-Provider: AR
 # 阿根廷（Argentina）
-# 数据日期: 2026-09-25
+# 数据日期: 2026-09-26
 # 数据来源: APNIC + IPtoASN
 # 规则统计: 共 3069 条（IPv4: 1859 / IPv6: 1210）
 # ============================================================
@@ -1334,6 +1334,7 @@ payload:
   - IP-CIDR,206.221.80.0/20,no-resolve
   - IP-CIDR,206.62.97.0/24,no-resolve
   - IP-CIDR,206.84.208.0/20,no-resolve
+  - IP-CIDR,206.84.64.0/21,no-resolve
   - IP-CIDR,206.85.16.0/22,no-resolve
   - IP-CIDR,206.85.32.0/19,no-resolve
   - IP-CIDR,207.191.164.0/22,no-resolve
@@ -1401,8 +1402,7 @@ payload:
   - IP-CIDR,38.199.78.0/24,no-resolve
   - IP-CIDR,38.20.13.0/24,no-resolve
   - IP-CIDR,38.21.72.0/21,no-resolve
-  - IP-CIDR,38.21.80.0/21,no-resolve
-  - IP-CIDR,38.21.88.0/21,no-resolve
+  - IP-CIDR,38.21.80.0/20,no-resolve
   - IP-CIDR,38.210.101.0/24,no-resolve
   - IP-CIDR,38.210.127.0/24,no-resolve
   - IP-CIDR,38.210.128.0/19,no-resolve

@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: AU
 # 澳大利亚（Australia）
-# 数据日期: 2026-09-26
+# 数据日期: 2026-09-28
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 9474 条（IPv4: 7098 / IPv6: 2376）
+# 规则统计: 共 9474 条（IPv4: 7099 / IPv6: 2375）
 # ============================================================
 payload:
   - IP-CIDR,1.0.0.0/24,no-resolve
@@ -3793,6 +3793,7 @@ payload:
   - IP-CIDR,199.52.80.0/24,no-resolve
   - IP-CIDR,199.58.4.0/24,no-resolve
   - IP-CIDR,199.67.70.0/24,no-resolve
+  - IP-CIDR,2.21.36.0/22,no-resolve
   - IP-CIDR,2.27.87.0/24,no-resolve
   - IP-CIDR,2.56.166.0/24,no-resolve
   - IP-CIDR,2.58.104.0/24,no-resolve
@@ -8917,7 +8918,6 @@ payload:
   - IP-CIDR6,2a06:a000:1d0::/44,no-resolve
   - IP-CIDR6,2a06:a004:1000::/40,no-resolve
   - IP-CIDR6,2a06:a004:100::/47,no-resolve
-  - IP-CIDR6,2a06:a004:102::/48,no-resolve
   - IP-CIDR6,2a06:a004:7afe::/48,no-resolve
   - IP-CIDR6,2a06:a004:f100::/44,no-resolve
   - IP-CIDR6,2a06:a004:f200::/44,no-resolve

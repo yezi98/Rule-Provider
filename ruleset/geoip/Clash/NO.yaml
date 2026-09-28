@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: NO
 # 挪威（Norway）
-# 数据日期: 2026-09-26
+# 数据日期: 2026-09-28
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 1966 条（IPv4: 1448 / IPv6: 518）
+# 规则统计: 共 1965 条（IPv4: 1447 / IPv6: 518）
 # ============================================================
 payload:
   - IP-CIDR,103.19.218.0/24,no-resolve
@@ -1034,7 +1034,6 @@ payload:
   - IP-CIDR,44.141.132.0/24,no-resolve
   - IP-CIDR,44.30.56.0/24,no-resolve
   - IP-CIDR,44.31.76.0/24,no-resolve
-  - IP-CIDR,44.31.78.0/24,no-resolve
   - IP-CIDR,44.32.135.0/24,no-resolve
   - IP-CIDR,44.32.207.0/24,no-resolve
   - IP-CIDR,45.129.75.0/24,no-resolve

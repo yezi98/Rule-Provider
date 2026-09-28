@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: ES
 # 西班牙（Spain）
-# 数据日期: 2026-09-26
+# 数据日期: 2026-09-28
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 5268 条（IPv4: 4037 / IPv6: 1231）
+# 规则统计: 共 5265 条（IPv4: 4034 / IPv6: 1231）
 # ============================================================
 IP-CIDR,1.178.224.0/19,no-resolve
 IP-CIDR,102.177.129.0/24,no-resolve
@@ -244,7 +244,6 @@ IP-CIDR,154.197.123.0/24,no-resolve
 IP-CIDR,154.202.74.0/24,no-resolve
 IP-CIDR,154.214.192.0/24,no-resolve
 IP-CIDR,154.26.122.0/23,no-resolve
-IP-CIDR,154.44.140.0/22,no-resolve
 IP-CIDR,154.44.184.0/24,no-resolve
 IP-CIDR,154.44.190.0/24,no-resolve
 IP-CIDR,154.46.40.0/24,no-resolve
@@ -3759,14 +3758,10 @@ IP-CIDR,92.172.168.0/21,no-resolve
 IP-CIDR,92.172.176.0/20,no-resolve
 IP-CIDR,92.172.192.0/20,no-resolve
 IP-CIDR,92.172.208.0/20,no-resolve
-IP-CIDR,92.172.224.0/22,no-resolve
-IP-CIDR,92.172.228.0/22,no-resolve
+IP-CIDR,92.172.224.0/21,no-resolve
 IP-CIDR,92.172.232.0/21,no-resolve
 IP-CIDR,92.172.240.0/20,no-resolve
-IP-CIDR,92.172.64.0/21,no-resolve
-IP-CIDR,92.172.72.0/21,no-resolve
-IP-CIDR,92.172.80.0/20,no-resolve
-IP-CIDR,92.172.96.0/19,no-resolve
+IP-CIDR,92.172.64.0/18,no-resolve
 IP-CIDR,92.176.0.0/20,no-resolve
 IP-CIDR,92.176.128.0/21,no-resolve
 IP-CIDR,92.176.136.0/21,no-resolve
@@ -3801,8 +3796,10 @@ IP-CIDR,92.177.84.0/22,no-resolve
 IP-CIDR,92.177.88.0/21,no-resolve
 IP-CIDR,92.177.96.0/19,no-resolve
 IP-CIDR,92.178.0.0/20,no-resolve
-IP-CIDR,92.178.128.0/18,no-resolve
+IP-CIDR,92.178.128.0/19,no-resolve
 IP-CIDR,92.178.16.0/20,no-resolve
+IP-CIDR,92.178.160.0/20,no-resolve
+IP-CIDR,92.178.176.0/20,no-resolve
 IP-CIDR,92.178.192.0/18,no-resolve
 IP-CIDR,92.178.32.0/20,no-resolve
 IP-CIDR,92.178.48.0/20,no-resolve
@@ -4053,7 +4050,7 @@ IP-CIDR6,2001:3786:1650::/48,no-resolve
 IP-CIDR6,2001:3786:1877::/48,no-resolve
 IP-CIDR6,2001:3786:1997::/48,no-resolve
 IP-CIDR6,2001:3786:1::/48,no-resolve
-IP-CIDR6,2001:3786:2000::/47,no-resolve
+IP-CIDR6,2001:3786:2000::/48,no-resolve
 IP-CIDR6,2001:3786:2003::/48,no-resolve
 IP-CIDR6,2001:3786:2004::/47,no-resolve
 IP-CIDR6,2001:3786:2007::/48,no-resolve
@@ -4087,7 +4084,7 @@ IP-CIDR6,2001:3786:4600::/48,no-resolve
 IP-CIDR6,2001:3786:4833::/48,no-resolve
 IP-CIDR6,2001:3786:4848::/48,no-resolve
 IP-CIDR6,2001:3786:4949::/48,no-resolve
-IP-CIDR6,2001:3786:5000::/47,no-resolve
+IP-CIDR6,2001:3786:5000::/48,no-resolve
 IP-CIDR6,2001:3786:5003::/48,no-resolve
 IP-CIDR6,2001:3786:5004::/47,no-resolve
 IP-CIDR6,2001:3786:5007::/48,no-resolve

@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: Global
 # 全球（Global）
-# 数据日期: 2026-09-26
+# 数据日期: 2026-09-28
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 176638 条（IPv4: 107326 / IPv6: 69312）
+# 规则统计: 共 176644 条（IPv4: 107327 / IPv6: 69317）
 # ============================================================
 payload:
   - IP-CIDR,1.0.0.0/16,no-resolve
@@ -60292,6 +60292,7 @@ payload:
   - IP-CIDR,198.61.32.0/19,no-resolve
   - IP-CIDR,198.61.4.0/22,no-resolve
   - IP-CIDR,198.61.64.0/18,no-resolve
+  - IP-CIDR,198.61.8.0/23,no-resolve
   - IP-CIDR,198.62.0.0/19,no-resolve
   - IP-CIDR,198.62.100.0/23,no-resolve
   - IP-CIDR,198.62.102.0/24,no-resolve
@@ -116167,7 +116168,6 @@ payload:
   - IP-CIDR6,2001:df3:7880::/48,no-resolve
   - IP-CIDR6,2001:df3:78c0::/48,no-resolve
   - IP-CIDR6,2001:df3:7900::/48,no-resolve
-  - IP-CIDR6,2001:df3:7940::/48,no-resolve
   - IP-CIDR6,2001:df3:7980::/48,no-resolve
   - IP-CIDR6,2001:df3:79c0::/48,no-resolve
   - IP-CIDR6,2001:df3:7a00::/48,no-resolve
@@ -129794,7 +129794,13 @@ payload:
   - IP-CIDR6,2602:81e:a000::/44,no-resolve
   - IP-CIDR6,2602:81e:b000::/44,no-resolve
   - IP-CIDR6,2602:81e:c000::/44,no-resolve
+  - IP-CIDR6,2602:81e:d000::/44,no-resolve
+  - IP-CIDR6,2602:81e:e000::/44,no-resolve
   - IP-CIDR6,2602::/24,no-resolve
+  - IP-CIDR6,2602:f2d4::/40,no-resolve
+  - IP-CIDR6,2602:f2d5::/40,no-resolve
+  - IP-CIDR6,2602:f2d6::/40,no-resolve
+  - IP-CIDR6,2602:f2d7::/40,no-resolve
   - IP-CIDR6,2602:f2d8::/36,no-resolve
   - IP-CIDR6,2602:f2d9::/36,no-resolve
   - IP-CIDR6,2602:f2da::/40,no-resolve
@@ -133408,6 +133414,7 @@ payload:
   - IP-CIDR6,2604:7080::/32,no-resolve
   - IP-CIDR6,2604:70::/32,no-resolve
   - IP-CIDR6,2604:7100::/32,no-resolve
+  - IP-CIDR6,2604:7140::/32,no-resolve
   - IP-CIDR6,2604:7180::/36,no-resolve
   - IP-CIDR6,2604:71c0::/32,no-resolve
   - IP-CIDR6,2604:7200::/32,no-resolve
@@ -142410,7 +142417,6 @@ payload:
   - IP-CIDR6,2803:4a60::/32,no-resolve
   - IP-CIDR6,2803:4a80::/32,no-resolve
   - IP-CIDR6,2803:4a90:3::/48,no-resolve
-  - IP-CIDR6,2803:4a90:8306::/48,no-resolve
   - IP-CIDR6,2803:4aa0::/32,no-resolve
   - IP-CIDR6,2803:4ac0::/32,no-resolve
   - IP-CIDR6,2803:4ad0::/32,no-resolve

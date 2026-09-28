@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: EE
 # 爱沙尼亚（Estonia）
-# 数据日期: 2026-09-26
+# 数据日期: 2026-09-28
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 1284 条（IPv4: 968 / IPv6: 316）
+# 规则统计: 共 1286 条（IPv4: 970 / IPv6: 316）
 # ============================================================
 IP-CIDR,103.140.186.0/23,no-resolve
 IP-CIDR,103.141.13.0/24,no-resolve
@@ -21,6 +21,7 @@ IP-CIDR,104.238.0.0/23,no-resolve
 IP-CIDR,104.238.31.0/24,no-resolve
 IP-CIDR,104.249.44.0/23,no-resolve
 IP-CIDR,104.253.23.0/24,no-resolve
+IP-CIDR,108.175.109.0/24,no-resolve
 IP-CIDR,109.107.128.0/24,no-resolve
 IP-CIDR,109.163.248.0/21,no-resolve
 IP-CIDR,109.172.8.0/23,no-resolve
@@ -315,10 +316,12 @@ IP-CIDR,188.66.0.0/21,no-resolve
 IP-CIDR,188.66.25.0/24,no-resolve
 IP-CIDR,188.92.160.0/21,no-resolve
 IP-CIDR,188.95.208.0/21,no-resolve
+IP-CIDR,191.102.35.0/24,no-resolve
 IP-CIDR,192.144.5.0/24,no-resolve
 IP-CIDR,192.145.111.0/24,no-resolve
 IP-CIDR,192.145.53.0/24,no-resolve
 IP-CIDR,192.159.100.0/23,no-resolve
+IP-CIDR,192.231.140.0/24,no-resolve
 IP-CIDR,192.83.230.0/24,no-resolve
 IP-CIDR,193.104.75.0/24,no-resolve
 IP-CIDR,193.106.196.0/24,no-resolve
@@ -464,6 +467,7 @@ IP-CIDR,2.59.164.0/22,no-resolve
 IP-CIDR,2.59.216.0/23,no-resolve
 IP-CIDR,2.59.218.0/24,no-resolve
 IP-CIDR,2.59.254.0/24,no-resolve
+IP-CIDR,200.9.128.0/24,no-resolve
 IP-CIDR,201.7.32.0/23,no-resolve
 IP-CIDR,202.122.129.0/24,no-resolve
 IP-CIDR,203.0.9.0/24,no-resolve
@@ -683,8 +687,6 @@ IP-CIDR,62.65.192.0/18,no-resolve
 IP-CIDR,62.65.32.0/19,no-resolve
 IP-CIDR,64.137.54.0/24,no-resolve
 IP-CIDR,64.28.40.0/23,no-resolve
-IP-CIDR,68.164.58.0/24,no-resolve
-IP-CIDR,69.33.168.0/24,no-resolve
 IP-CIDR,72.35.246.0/24,no-resolve
 IP-CIDR,77.110.109.0/24,no-resolve
 IP-CIDR,77.110.114.0/23,no-resolve

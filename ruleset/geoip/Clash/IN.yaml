@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: IN
 # 印度（India）
-# 数据日期: 2026-09-28
+# 数据日期: 2026-09-29
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 12008 条（IPv4: 8983 / IPv6: 3025）
+# 规则统计: 共 12012 条（IPv4: 8984 / IPv6: 3028）
 # ============================================================
 payload:
   - IP-CIDR,1.10.10.0/24,no-resolve
@@ -5525,6 +5525,7 @@ payload:
   - IP-CIDR,157.20.84.0/22,no-resolve
   - IP-CIDR,157.238.96.0/19,no-resolve
   - IP-CIDR,157.254.156.0/24,no-resolve
+  - IP-CIDR,157.254.223.0/24,no-resolve
   - IP-CIDR,157.254.24.0/24,no-resolve
   - IP-CIDR,157.32.0.0/12,no-resolve
   - IP-CIDR,157.48.0.0/14,no-resolve
@@ -6776,7 +6777,7 @@ payload:
   - IP-CIDR,198.55.126.0/23,no-resolve
   - IP-CIDR,198.55.96.0/23,no-resolve
   - IP-CIDR,198.56.16.0/23,no-resolve
-  - IP-CIDR,198.61.8.0/23,no-resolve
+  - IP-CIDR,198.61.8.0/22,no-resolve
   - IP-CIDR,198.64.192.0/19,no-resolve
   - IP-CIDR,198.64.224.0/20,no-resolve
   - IP-CIDR,198.64.80.0/20,no-resolve
@@ -8814,11 +8815,11 @@ payload:
   - IP-CIDR,87.239.248.0/24,no-resolve
   - IP-CIDR,87.239.254.0/23,no-resolve
   - IP-CIDR,87.58.129.0/24,no-resolve
-  - IP-CIDR,87.76.149.0/24,no-resolve
   - IP-CIDR,87.76.165.0/24,no-resolve
   - IP-CIDR,87.76.169.0/24,no-resolve
   - IP-CIDR,87.76.191.0/24,no-resolve
   - IP-CIDR,87.76.199.0/24,no-resolve
+  - IP-CIDR,87.76.205.0/24,no-resolve
   - IP-CIDR,87.76.217.0/24,no-resolve
   - IP-CIDR,88.218.144.0/22,no-resolve
   - IP-CIDR,89.104.100.0/23,no-resolve
@@ -10630,6 +10631,7 @@ payload:
   - IP-CIDR6,2001:df7:95c0::/48,no-resolve
   - IP-CIDR6,2001:df7:9640::/48,no-resolve
   - IP-CIDR6,2001:df7:9700::/48,no-resolve
+  - IP-CIDR6,2001:df7:9840::/48,no-resolve
   - IP-CIDR6,2001:df7:9880::/48,no-resolve
   - IP-CIDR6,2001:df7:9900::/48,no-resolve
   - IP-CIDR6,2001:df7:9a80::/48,no-resolve
@@ -11274,6 +11276,8 @@ payload:
   - IP-CIDR6,2402:7780::/32,no-resolve
   - IP-CIDR6,2402:77a0::/32,no-resolve
   - IP-CIDR6,2402:7860::/32,no-resolve
+  - IP-CIDR6,2402:79a0::/32,no-resolve
+  - IP-CIDR6,2402:79e0::/32,no-resolve
   - IP-CIDR6,2402:7a0::/32,no-resolve
   - IP-CIDR6,2402:7f00::/32,no-resolve
   - IP-CIDR6,2402:80c0::/32,no-resolve

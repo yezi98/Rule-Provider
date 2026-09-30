@@ -1,15 +1,16 @@
 # ============================================================
 # Rule-Provider: PA
 # 巴拿马（Panama）
-# 数据日期: 2026-09-29
+# 数据日期: 2026-09-30
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 1489 条（IPv4: 1041 / IPv6: 448）
+# 规则统计: 共 1495 条（IPv4: 1046 / IPv6: 449）
 # ============================================================
 payload:
   - IP-CIDR,103.173.150.0/23,no-resolve
   - IP-CIDR,103.196.10.0/23,no-resolve
   - IP-CIDR,103.86.96.0/22,no-resolve
   - IP-CIDR,104.129.160.0/22,no-resolve
+  - IP-CIDR,104.238.2.0/24,no-resolve
   - IP-CIDR,104.252.161.0/24,no-resolve
   - IP-CIDR,104.252.36.0/24,no-resolve
   - IP-CIDR,104.252.42.0/24,no-resolve
@@ -253,6 +254,8 @@ payload:
   - IP-CIDR,181.79.172.0/23,no-resolve
   - IP-CIDR,181.79.174.0/24,no-resolve
   - IP-CIDR,181.79.178.0/23,no-resolve
+  - IP-CIDR,181.79.184.0/24,no-resolve
+  - IP-CIDR,181.79.187.0/24,no-resolve
   - IP-CIDR,181.79.192.0/20,no-resolve
   - IP-CIDR,181.79.208.0/22,no-resolve
   - IP-CIDR,181.79.217.0/24,no-resolve
@@ -408,6 +411,7 @@ payload:
   - IP-CIDR,190.61.56.0/23,no-resolve
   - IP-CIDR,190.61.58.0/24,no-resolve
   - IP-CIDR,190.61.60.0/22,no-resolve
+  - IP-CIDR,190.61.64.0/23,no-resolve
   - IP-CIDR,190.61.80.0/21,no-resolve
   - IP-CIDR,190.61.88.0/22,no-resolve
   - IP-CIDR,190.61.96.0/21,no-resolve
@@ -700,6 +704,7 @@ payload:
   - IP-CIDR,5.154.252.0/23,no-resolve
   - IP-CIDR,5.157.129.0/24,no-resolve
   - IP-CIDR,5.252.152.0/22,no-resolve
+  - IP-CIDR,50.117.15.0/24,no-resolve
   - IP-CIDR,62.197.144.0/20,no-resolve
   - IP-CIDR,62.204.45.0/24,no-resolve
   - IP-CIDR,62.72.189.0/24,no-resolve
@@ -1253,6 +1258,7 @@ payload:
   - IP-CIDR6,2803:59a0:a000::/35,no-resolve
   - IP-CIDR6,2803:59a0:c000::/34,no-resolve
   - IP-CIDR6,2803:600::/32,no-resolve
+  - IP-CIDR6,2803:6340::/32,no-resolve
   - IP-CIDR6,2803:6e20::/32,no-resolve
   - IP-CIDR6,2803:7280::/32,no-resolve
   - IP-CIDR6,2803:7a00:8000::/40,no-resolve

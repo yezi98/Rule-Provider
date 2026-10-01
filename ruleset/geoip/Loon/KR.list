@@ -1,7 +1,7 @@
 # ============================================================
 # Rule-Provider: KR
 # 韩国（South Korea）
-# 数据日期: 2026-09-30
+# 数据日期: 2026-10-01
 # 数据来源: APNIC + IPtoASN
 # 规则统计: 共 1850 条（IPv4: 1660 / IPv6: 190）
 # ============================================================
@@ -902,7 +902,7 @@ IP-CIDR,183.96.0.0/11,no-resolve
 IP-CIDR,184.85.234.0/23,no-resolve
 IP-CIDR,185.130.49.0/24,no-resolve
 IP-CIDR,185.137.14.0/23,no-resolve
-IP-CIDR,185.199.213.0/24,no-resolve
+IP-CIDR,185.199.212.0/23,no-resolve
 IP-CIDR,185.214.103.0/24,no-resolve
 IP-CIDR,185.227.146.0/24,no-resolve
 IP-CIDR,185.227.152.0/22,no-resolve

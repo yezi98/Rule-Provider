@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: AE
 # 阿联酋（United Arab Emirates）
-# 数据日期: 2026-09-30
+# 数据日期: 2026-10-01
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 2491 条（IPv4: 1799 / IPv6: 692）
+# 规则统计: 共 2498 条（IPv4: 1806 / IPv6: 692）
 # ============================================================
 payload:
   - IP-CIDR,102.215.192.0/22,no-resolve
@@ -200,6 +200,7 @@ payload:
   - IP-CIDR,149.57.36.0/24,no-resolve
   - IP-CIDR,149.57.38.0/24,no-resolve
   - IP-CIDR,149.62.40.0/22,no-resolve
+  - IP-CIDR,150.237.72.0/23,no-resolve
   - IP-CIDR,150.237.76.0/24,no-resolve
   - IP-CIDR,150.241.95.0/24,no-resolve
   - IP-CIDR,151.158.76.0/23,no-resolve
@@ -659,6 +660,7 @@ payload:
   - IP-CIDR,190.115.16.0/20,no-resolve
   - IP-CIDR,191.0.80.0/20,no-resolve
   - IP-CIDR,191.101.0.0/16,no-resolve
+  - IP-CIDR,191.217.253.0/24,no-resolve
   - IP-CIDR,191.45.32.0/20,no-resolve
   - IP-CIDR,191.96.0.0/16,no-resolve
   - IP-CIDR,192.103.14.0/24,no-resolve
@@ -858,6 +860,7 @@ payload:
   - IP-CIDR,195.14.2.0/24,no-resolve
   - IP-CIDR,195.162.245.0/24,no-resolve
   - IP-CIDR,195.18.27.0/24,no-resolve
+  - IP-CIDR,195.184.244.0/24,no-resolve
   - IP-CIDR,195.2.248.0/24,no-resolve
   - IP-CIDR,195.2.86.0/24,no-resolve
   - IP-CIDR,195.2.92.0/23,no-resolve
@@ -930,6 +933,7 @@ payload:
   - IP-CIDR,202.9.50.0/24,no-resolve
   - IP-CIDR,202.9.56.0/24,no-resolve
   - IP-CIDR,202.92.20.0/24,no-resolve
+  - IP-CIDR,203.171.124.0/24,no-resolve
   - IP-CIDR,203.171.126.0/23,no-resolve
   - IP-CIDR,204.157.156.0/23,no-resolve
   - IP-CIDR,204.77.0.0/22,no-resolve
@@ -1024,6 +1028,8 @@ payload:
   - IP-CIDR,31.77.16.0/22,no-resolve
   - IP-CIDR,31.77.237.0/24,no-resolve
   - IP-CIDR,31.77.252.0/24,no-resolve
+  - IP-CIDR,31.77.34.0/23,no-resolve
+  - IP-CIDR,31.77.42.0/23,no-resolve
   - IP-CIDR,31.77.8.0/21,no-resolve
   - IP-CIDR,36.255.188.0/22,no-resolve
   - IP-CIDR,37.1.192.0/19,no-resolve
@@ -1315,6 +1321,7 @@ payload:
   - IP-CIDR,5.199.34.0/24,no-resolve
   - IP-CIDR,5.199.41.0/24,no-resolve
   - IP-CIDR,5.199.54.0/23,no-resolve
+  - IP-CIDR,5.226.184.0/24,no-resolve
   - IP-CIDR,5.252.160.0/22,no-resolve
   - IP-CIDR,5.252.184.0/23,no-resolve
   - IP-CIDR,5.252.68.0/22,no-resolve

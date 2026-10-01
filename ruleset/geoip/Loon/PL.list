@@ -1,7 +1,7 @@
 # ============================================================
 # Rule-Provider: PL
 # 波兰（Poland）
-# 数据日期: 2026-09-30
+# 数据日期: 2026-10-01
 # 数据来源: APNIC + IPtoASN
 # 规则统计: 共 5544 条（IPv4: 4324 / IPv6: 1220）
 # ============================================================
@@ -2372,6 +2372,7 @@ IP-CIDR,199.195.56.0/22,no-resolve
 IP-CIDR,199.204.10.0/23,no-resolve
 IP-CIDR,199.83.103.0/24,no-resolve
 IP-CIDR,2.152.66.0/23,no-resolve
+IP-CIDR,2.152.86.0/23,no-resolve
 IP-CIDR,2.27.253.0/24,no-resolve
 IP-CIDR,2.56.68.0/22,no-resolve
 IP-CIDR,2.57.132.0/22,no-resolve
@@ -2967,7 +2968,6 @@ IP-CIDR,77.73.36.0/22,no-resolve
 IP-CIDR,77.79.192.0/18,no-resolve
 IP-CIDR,77.83.100.0/23,no-resolve
 IP-CIDR,77.83.128.0/22,no-resolve
-IP-CIDR,77.83.193.0/24,no-resolve
 IP-CIDR,77.83.40.0/22,no-resolve
 IP-CIDR,77.87.0.0/21,no-resolve
 IP-CIDR,77.87.125.0/24,no-resolve

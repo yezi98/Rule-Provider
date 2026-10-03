@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: BD
 # 孟加拉国（Bangladesh）
-# 数据日期: 2026-10-02
+# 数据日期: 2026-10-03
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 4010 条（IPv4: 2332 / IPv6: 1678）
+# 规则统计: 共 4018 条（IPv4: 2339 / IPv6: 1679）
 # ============================================================
 IP-CIDR,101.2.160.0/21,no-resolve
 IP-CIDR,103.10.194.0/23,no-resolve
@@ -1550,6 +1550,7 @@ IP-CIDR,120.89.64.0/22,no-resolve
 IP-CIDR,121.200.220.0/23,no-resolve
 IP-CIDR,121.200.60.0/22,no-resolve
 IP-CIDR,121.46.70.0/24,no-resolve
+IP-CIDR,121.50.170.0/23,no-resolve
 IP-CIDR,122.102.32.0/21,no-resolve
 IP-CIDR,122.144.8.0/21,no-resolve
 IP-CIDR,122.152.48.0/21,no-resolve
@@ -1948,6 +1949,7 @@ IP-CIDR,182.48.64.0/19,no-resolve
 IP-CIDR,182.54.152.0/22,no-resolve
 IP-CIDR,185.187.232.0/24,no-resolve
 IP-CIDR,185.87.121.0/24,no-resolve
+IP-CIDR,188.221.118.0/24,no-resolve
 IP-CIDR,188.255.148.0/24,no-resolve
 IP-CIDR,192.140.252.0/22,no-resolve
 IP-CIDR,192.144.80.0/22,no-resolve
@@ -2103,7 +2105,10 @@ IP-CIDR,210.87.70.0/23,no-resolve
 IP-CIDR,212.134.106.0/23,no-resolve
 IP-CIDR,212.134.108.0/23,no-resolve
 IP-CIDR,212.134.32.0/22,no-resolve
-IP-CIDR,217.60.92.0/22,no-resolve
+IP-CIDR,212.135.192.0/24,no-resolve
+IP-CIDR,212.74.57.0/24,no-resolve
+IP-CIDR,217.60.92.0/23,no-resolve
+IP-CIDR,217.60.94.0/24,no-resolve
 IP-CIDR,218.100.37.0/24,no-resolve
 IP-CIDR,220.152.112.0/22,no-resolve
 IP-CIDR,220.158.150.0/23,no-resolve
@@ -2221,6 +2226,7 @@ IP-CIDR,49.128.1.0/24,no-resolve
 IP-CIDR,49.143.248.0/23,no-resolve
 IP-CIDR,49.213.32.0/23,no-resolve
 IP-CIDR,49.213.52.0/23,no-resolve
+IP-CIDR,5.199.52.0/24,no-resolve
 IP-CIDR,58.145.184.0/21,no-resolve
 IP-CIDR,58.147.168.0/21,no-resolve
 IP-CIDR,58.65.224.0/21,no-resolve
@@ -2314,6 +2320,7 @@ IP-CIDR,82.163.15.0/24,no-resolve
 IP-CIDR,82.163.24.0/21,no-resolve
 IP-CIDR,82.41.20.0/24,no-resolve
 IP-CIDR,87.229.97.0/24,no-resolve
+IP-CIDR,87.254.15.0/24,no-resolve
 IP-CIDR,87.82.254.0/24,no-resolve
 IP-CIDR,87.83.13.0/24,no-resolve
 IP-CIDR,89.213.104.0/23,no-resolve
@@ -3267,6 +3274,7 @@ IP-CIDR6,2001:df7:9e40::/48,no-resolve
 IP-CIDR6,2001:df7:9f80::/48,no-resolve
 IP-CIDR6,2001:df7:a180::/48,no-resolve
 IP-CIDR6,2001:df7:a280::/48,no-resolve
+IP-CIDR6,2001:df7:a640::/48,no-resolve
 IP-CIDR6,2001:df7:a700::/48,no-resolve
 IP-CIDR6,2001:df7:b080::/48,no-resolve
 IP-CIDR6,2001:df7:b380::/48,no-resolve

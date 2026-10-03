@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: UA
 # 乌克兰（Ukraine）
-# 数据日期: 2026-10-02
+# 数据日期: 2026-10-03
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 4819 条（IPv4: 4007 / IPv6: 812）
+# 规则统计: 共 4818 条（IPv4: 4007 / IPv6: 811）
 # ============================================================
 IP-CIDR,102.165.44.0/24,no-resolve
 IP-CIDR,102.165.59.0/24,no-resolve
@@ -933,6 +933,7 @@ IP-CIDR,185.212.251.0/24,no-resolve
 IP-CIDR,185.213.232.0/22,no-resolve
 IP-CIDR,185.213.241.0/24,no-resolve
 IP-CIDR,185.213.40.0/22,no-resolve
+IP-CIDR,185.214.166.0/24,no-resolve
 IP-CIDR,185.216.51.0/24,no-resolve
 IP-CIDR,185.218.140.0/24,no-resolve
 IP-CIDR,185.218.142.0/24,no-resolve
@@ -1000,7 +1001,7 @@ IP-CIDR,185.241.109.0/24,no-resolve
 IP-CIDR,185.242.0.0/24,no-resolve
 IP-CIDR,185.242.21.0/24,no-resolve
 IP-CIDR,185.243.154.0/24,no-resolve
-IP-CIDR,185.243.96.0/23,no-resolve
+IP-CIDR,185.243.97.0/24,no-resolve
 IP-CIDR,185.243.99.0/24,no-resolve
 IP-CIDR,185.244.140.0/22,no-resolve
 IP-CIDR,185.244.156.0/22,no-resolve
@@ -1169,6 +1170,7 @@ IP-CIDR,188.93.115.0/24,no-resolve
 IP-CIDR,188.93.118.0/23,no-resolve
 IP-CIDR,188.95.93.0/24,no-resolve
 IP-CIDR,191.101.49.0/24,no-resolve
+IP-CIDR,191.217.241.0/24,no-resolve
 IP-CIDR,191.217.244.0/24,no-resolve
 IP-CIDR,191.217.254.0/23,no-resolve
 IP-CIDR,192.102.6.0/23,no-resolve
@@ -3888,7 +3890,6 @@ IP-CIDR,94.124.164.0/22,no-resolve
 IP-CIDR,94.125.120.0/21,no-resolve
 IP-CIDR,94.131.0.0/23,no-resolve
 IP-CIDR,94.131.125.0/24,no-resolve
-IP-CIDR,94.131.192.0/23,no-resolve
 IP-CIDR,94.131.194.0/24,no-resolve
 IP-CIDR,94.131.196.0/22,no-resolve
 IP-CIDR,94.131.204.0/22,no-resolve
@@ -3954,7 +3955,6 @@ IP-CIDR,95.164.170.0/23,no-resolve
 IP-CIDR,95.164.172.0/22,no-resolve
 IP-CIDR,95.164.251.0/24,no-resolve
 IP-CIDR,95.164.40.0/22,no-resolve
-IP-CIDR,95.164.47.0/24,no-resolve
 IP-CIDR,95.164.48.0/23,no-resolve
 IP-CIDR,95.164.50.0/24,no-resolve
 IP-CIDR,95.164.54.0/24,no-resolve
@@ -4221,7 +4221,6 @@ IP-CIDR6,2001:7f8:ba::/48,no-resolve
 IP-CIDR6,2001:7f8:e1::/48,no-resolve
 IP-CIDR6,2001:b28:4::/48,no-resolve
 IP-CIDR6,2602:f72e:101::/48,no-resolve
-IP-CIDR6,2602:f937:fff::/48,no-resolve
 IP-CIDR6,2a00:1210::/32,no-resolve
 IP-CIDR6,2a00:1228::/32,no-resolve
 IP-CIDR6,2a00:1588::/32,no-resolve

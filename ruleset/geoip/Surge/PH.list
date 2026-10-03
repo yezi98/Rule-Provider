@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: PH
 # 菲律宾（Philippines）
-# 数据日期: 2026-10-02
+# 数据日期: 2026-10-03
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 1593 条（IPv4: 1101 / IPv6: 492）
+# 规则统计: 共 1592 条（IPv4: 1100 / IPv6: 492）
 # ============================================================
 IP-CIDR,1.37.0.0/16,no-resolve
 IP-CIDR,101.192.112.0/20,no-resolve
@@ -556,7 +556,6 @@ IP-CIDR,154.40.159.0/24,no-resolve
 IP-CIDR,154.50.127.0/24,no-resolve
 IP-CIDR,154.56.114.0/23,no-resolve
 IP-CIDR,154.61.65.0/24,no-resolve
-IP-CIDR,154.82.130.0/23,no-resolve
 IP-CIDR,154.82.133.0/24,no-resolve
 IP-CIDR,154.82.151.0/24,no-resolve
 IP-CIDR,154.82.152.0/24,no-resolve

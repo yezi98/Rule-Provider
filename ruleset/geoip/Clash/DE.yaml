@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: DE
 # 德国（Germany）
-# 数据日期: 2026-10-03
+# 数据日期: 2026-10-04
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 14702 条（IPv4: 10742 / IPv6: 3960）
+# 规则统计: 共 14699 条（IPv4: 10739 / IPv6: 3960）
 # ============================================================
 payload:
   - IP-CIDR,100.42.176.0/20,no-resolve
@@ -92,7 +92,6 @@ payload:
   - IP-CIDR,109.107.156.0/24,no-resolve
   - IP-CIDR,109.109.0.0/19,no-resolve
   - IP-CIDR,109.109.192.0/20,no-resolve
-  - IP-CIDR,109.110.180.0/24,no-resolve
   - IP-CIDR,109.121.42.0/24,no-resolve
   - IP-CIDR,109.122.11.0/24,no-resolve
   - IP-CIDR,109.122.7.0/24,no-resolve
@@ -584,7 +583,6 @@ payload:
   - IP-CIDR,143.14.156.0/24,no-resolve
   - IP-CIDR,143.14.164.0/24,no-resolve
   - IP-CIDR,143.14.169.0/24,no-resolve
-  - IP-CIDR,143.14.20.0/24,no-resolve
   - IP-CIDR,143.14.202.0/24,no-resolve
   - IP-CIDR,143.14.216.0/24,no-resolve
   - IP-CIDR,143.14.223.0/24,no-resolve
@@ -1203,7 +1201,6 @@ payload:
   - IP-CIDR,167.104.224.0/19,no-resolve
   - IP-CIDR,167.148.173.0/24,no-resolve
   - IP-CIDR,167.148.187.0/24,no-resolve
-  - IP-CIDR,167.148.214.0/24,no-resolve
   - IP-CIDR,167.160.18.0/24,no-resolve
   - IP-CIDR,167.17.62.0/23,no-resolve
   - IP-CIDR,167.17.80.0/21,no-resolve
@@ -1461,7 +1458,6 @@ payload:
   - IP-CIDR,178.77.64.0/19,no-resolve
   - IP-CIDR,178.77.96.0/20,no-resolve
   - IP-CIDR,178.83.245.0/24,no-resolve
-  - IP-CIDR,178.83.252.0/24,no-resolve
   - IP-CIDR,178.92.106.0/24,no-resolve
   - IP-CIDR,178.92.172.0/22,no-resolve
   - IP-CIDR,178.92.199.0/24,no-resolve
@@ -5105,6 +5101,7 @@ payload:
   - IP-CIDR,194.147.133.0/24,no-resolve
   - IP-CIDR,194.147.171.0/24,no-resolve
   - IP-CIDR,194.147.174.0/23,no-resolve
+  - IP-CIDR,194.147.207.0/24,no-resolve
   - IP-CIDR,194.147.211.0/24,no-resolve
   - IP-CIDR,194.147.238.0/23,no-resolve
   - IP-CIDR,194.147.56.0/22,no-resolve
@@ -14107,7 +14104,7 @@ payload:
   - IP-CIDR6,2a0f:b240:6000::/40,no-resolve
   - IP-CIDR6,2a0f:b240:6a00::/40,no-resolve
   - IP-CIDR6,2a0f:b240:7800::/48,no-resolve
-  - IP-CIDR6,2a0f:b240:7c40::/48,no-resolve
+  - IP-CIDR6,2a0f:b240:7c00::/40,no-resolve
   - IP-CIDR6,2a0f:b2c0::/29,no-resolve
   - IP-CIDR6,2a0f:b340::/29,no-resolve
   - IP-CIDR6,2a0f:b500::/29,no-resolve

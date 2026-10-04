@@ -1,7 +1,7 @@
 # ============================================================
 # Rule-Provider: EE
 # 爱沙尼亚（Estonia）
-# 数据日期: 2026-10-03
+# 数据日期: 2026-10-04
 # 数据来源: APNIC + IPtoASN
 # 规则统计: 共 1305 条（IPv4: 992 / IPv6: 313）
 # ============================================================
@@ -314,7 +314,7 @@ IP-CIDR,188.66.0.0/21,no-resolve
 IP-CIDR,188.66.25.0/24,no-resolve
 IP-CIDR,188.92.160.0/21,no-resolve
 IP-CIDR,188.95.208.0/21,no-resolve
-IP-CIDR,191.102.35.0/24,no-resolve
+IP-CIDR,191.102.34.0/23,no-resolve
 IP-CIDR,192.144.5.0/24,no-resolve
 IP-CIDR,192.145.111.0/24,no-resolve
 IP-CIDR,192.145.53.0/24,no-resolve

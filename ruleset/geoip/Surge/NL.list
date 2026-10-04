@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: NL
 # 荷兰（Netherlands）
-# 数据日期: 2026-10-03
+# 数据日期: 2026-10-04
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 17015 条（IPv4: 11718 / IPv6: 5297）
+# 规则统计: 共 17019 条（IPv4: 11718 / IPv6: 5301）
 # ============================================================
 IP-CIDR,101.97.0.0/19,no-resolve
 IP-CIDR,101.97.32.0/22,no-resolve
@@ -8696,7 +8696,6 @@ IP-CIDR,38.93.136.0/24,no-resolve
 IP-CIDR,38.94.107.0/24,no-resolve
 IP-CIDR,38.97.7.0/24,no-resolve
 IP-CIDR,38.99.84.0/24,no-resolve
-IP-CIDR,40.223.82.0/24,no-resolve
 IP-CIDR,40.27.70.0/24,no-resolve
 IP-CIDR,41.216.179.0/24,no-resolve
 IP-CIDR,43.239.136.0/22,no-resolve
@@ -9797,6 +9796,7 @@ IP-CIDR,65.110.184.0/22,no-resolve
 IP-CIDR,65.110.190.0/24,no-resolve
 IP-CIDR,65.87.121.0/24,no-resolve
 IP-CIDR,65.87.222.0/23,no-resolve
+IP-CIDR,66.132.231.0/24,no-resolve
 IP-CIDR,66.151.32.0/22,no-resolve
 IP-CIDR,66.151.40.0/22,no-resolve
 IP-CIDR,66.198.8.0/24,no-resolve
@@ -15500,6 +15500,9 @@ IP-CIDR6,2a06:9f46::/32,no-resolve
 IP-CIDR6,2a06:a005:1660::/44,no-resolve
 IP-CIDR6,2a06:a005:187c::/48,no-resolve
 IP-CIDR6,2a06:a005:1c90::/44,no-resolve
+IP-CIDR6,2a06:a005:1ca0::/43,no-resolve
+IP-CIDR6,2a06:a005:1cc0::/43,no-resolve
+IP-CIDR6,2a06:a005:1ce0::/44,no-resolve
 IP-CIDR6,2a06:a005:700::/44,no-resolve
 IP-CIDR6,2a06:a005:a30::/44,no-resolve
 IP-CIDR6,2a06:a005:a40::/43,no-resolve
@@ -16188,6 +16191,7 @@ IP-CIDR6,2a0e:a280::/29,no-resolve
 IP-CIDR6,2a0e:a3c0::/29,no-resolve
 IP-CIDR6,2a0e:a580::/29,no-resolve
 IP-CIDR6,2a0e:a6c0::/30,no-resolve
+IP-CIDR6,2a0e:a6c4::/32,no-resolve
 IP-CIDR6,2a0e:a940::/29,no-resolve
 IP-CIDR6,2a0e:b107:1167::/48,no-resolve
 IP-CIDR6,2a0e:b107:15a2::/48,no-resolve

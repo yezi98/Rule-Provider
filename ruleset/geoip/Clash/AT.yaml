@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: AT
 # 奥地利（Austria）
-# 数据日期: 2026-10-04
+# 数据日期: 2026-10-05
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 2793 条（IPv4: 2100 / IPv6: 693）
+# 规则统计: 共 2796 条（IPv4: 2103 / IPv6: 693）
 # ============================================================
 payload:
   - IP-CIDR,103.203.180.0/22,no-resolve
@@ -1284,6 +1284,7 @@ payload:
   - IP-CIDR,195.70.96.0/19,no-resolve
   - IP-CIDR,195.72.132.0/22,no-resolve
   - IP-CIDR,195.72.167.0/24,no-resolve
+  - IP-CIDR,195.72.176.0/22,no-resolve
   - IP-CIDR,195.74.65.0/24,no-resolve
   - IP-CIDR,195.78.102.0/23,no-resolve
   - IP-CIDR,195.78.46.0/23,no-resolve
@@ -1721,6 +1722,7 @@ payload:
   - IP-CIDR,78.40.212.0/22,no-resolve
   - IP-CIDR,78.41.112.0/21,no-resolve
   - IP-CIDR,78.41.144.0/21,no-resolve
+  - IP-CIDR,79.132.66.0/23,no-resolve
   - IP-CIDR,79.142.188.0/24,no-resolve
   - IP-CIDR,79.142.191.0/24,no-resolve
   - IP-CIDR,79.143.48.0/20,no-resolve
@@ -1780,6 +1782,7 @@ payload:
   - IP-CIDR,83.137.40.0/21,no-resolve
   - IP-CIDR,83.138.55.0/24,no-resolve
   - IP-CIDR,83.143.119.0/24,no-resolve
+  - IP-CIDR,83.148.156.0/22,no-resolve
   - IP-CIDR,83.164.0.0/16,no-resolve
   - IP-CIDR,83.172.134.0/23,no-resolve
   - IP-CIDR,83.172.136.0/24,no-resolve

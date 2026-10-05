@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: RO
 # 罗马尼亚（Romania）
-# 数据日期: 2026-10-04
+# 数据日期: 2026-10-05
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 5453 条（IPv4: 4902 / IPv6: 551）
+# 规则统计: 共 5455 条（IPv4: 4904 / IPv6: 551）
 # ============================================================
 IP-CIDR,102.128.164.0/23,no-resolve
 IP-CIDR,102.129.146.0/24,no-resolve
@@ -48,6 +48,7 @@ IP-CIDR,102.165.22.0/24,no-resolve
 IP-CIDR,102.165.27.0/24,no-resolve
 IP-CIDR,102.165.38.0/24,no-resolve
 IP-CIDR,102.165.6.0/24,no-resolve
+IP-CIDR,102.212.6.0/24,no-resolve
 IP-CIDR,102.215.226.0/24,no-resolve
 IP-CIDR,102.38.225.0/24,no-resolve
 IP-CIDR,102.38.232.0/23,no-resolve
@@ -246,6 +247,7 @@ IP-CIDR,108.186.225.0/24,no-resolve
 IP-CIDR,109.106.12.0/24,no-resolve
 IP-CIDR,109.111.197.0/24,no-resolve
 IP-CIDR,109.111.42.0/23,no-resolve
+IP-CIDR,109.121.38.0/24,no-resolve
 IP-CIDR,109.160.32.0/24,no-resolve
 IP-CIDR,109.163.224.0/20,no-resolve
 IP-CIDR,109.166.128.0/17,no-resolve
@@ -313,8 +315,7 @@ IP-CIDR,128.0.56.0/22,no-resolve
 IP-CIDR,128.0.6.0/24,no-resolve
 IP-CIDR,128.127.112.0/20,no-resolve
 IP-CIDR,128.140.224.0/21,no-resolve
-IP-CIDR,13.141.36.0/24,no-resolve
-IP-CIDR,13.141.38.0/24,no-resolve
+IP-CIDR,13.141.36.0/22,no-resolve
 IP-CIDR,13.141.55.0/24,no-resolve
 IP-CIDR,13.141.62.0/24,no-resolve
 IP-CIDR,13.143.116.0/23,no-resolve
@@ -1065,7 +1066,6 @@ IP-CIDR,178.212.230.0/24,no-resolve
 IP-CIDR,178.212.61.0/24,no-resolve
 IP-CIDR,178.212.62.0/24,no-resolve
 IP-CIDR,178.213.176.0/21,no-resolve
-IP-CIDR,178.214.216.0/24,no-resolve
 IP-CIDR,178.216.11.0/24,no-resolve
 IP-CIDR,178.23.64.0/21,no-resolve
 IP-CIDR,178.255.32.0/21,no-resolve
@@ -1665,7 +1665,6 @@ IP-CIDR,191.101.77.0/24,no-resolve
 IP-CIDR,191.101.8.0/24,no-resolve
 IP-CIDR,191.101.98.0/24,no-resolve
 IP-CIDR,191.223.128.0/22,no-resolve
-IP-CIDR,191.44.85.0/24,no-resolve
 IP-CIDR,191.96.147.0/24,no-resolve
 IP-CIDR,191.96.172.0/24,no-resolve
 IP-CIDR,191.96.195.0/24,no-resolve
@@ -2726,6 +2725,7 @@ IP-CIDR,31.56.5.0/24,no-resolve
 IP-CIDR,31.57.129.0/24,no-resolve
 IP-CIDR,31.57.41.0/24,no-resolve
 IP-CIDR,31.57.42.0/24,no-resolve
+IP-CIDR,31.57.8.0/24,no-resolve
 IP-CIDR,31.57.82.0/24,no-resolve
 IP-CIDR,31.59.0.0/21,no-resolve
 IP-CIDR,31.59.246.0/23,no-resolve
@@ -2861,9 +2861,11 @@ IP-CIDR,38.65.24.0/22,no-resolve
 IP-CIDR,38.95.108.0/22,no-resolve
 IP-CIDR,40.223.250.0/24,no-resolve
 IP-CIDR,40.223.255.0/24,no-resolve
+IP-CIDR,40.223.9.0/24,no-resolve
 IP-CIDR,40.27.107.0/24,no-resolve
 IP-CIDR,40.27.108.0/22,no-resolve
 IP-CIDR,40.27.116.0/22,no-resolve
+IP-CIDR,40.27.125.0/24,no-resolve
 IP-CIDR,43.226.228.0/24,no-resolve
 IP-CIDR,43.226.230.0/24,no-resolve
 IP-CIDR,43.228.156.0/24,no-resolve
@@ -3219,6 +3221,7 @@ IP-CIDR,51.241.65.0/24,no-resolve
 IP-CIDR,52.144.60.0/24,no-resolve
 IP-CIDR,58.68.128.0/18,no-resolve
 IP-CIDR,58.68.192.0/19,no-resolve
+IP-CIDR,61.15.233.0/24,no-resolve
 IP-CIDR,62.105.200.0/22,no-resolve
 IP-CIDR,62.121.64.0/18,no-resolve
 IP-CIDR,62.133.44.0/22,no-resolve
@@ -3776,7 +3779,6 @@ IP-CIDR,87.237.104.0/21,no-resolve
 IP-CIDR,87.243.0.0/21,no-resolve
 IP-CIDR,87.58.205.0/24,no-resolve
 IP-CIDR,87.76.164.0/24,no-resolve
-IP-CIDR,87.76.189.0/24,no-resolve
 IP-CIDR,88.158.0.0/16,no-resolve
 IP-CIDR,88.214.0.0/22,no-resolve
 IP-CIDR,88.216.0.0/23,no-resolve
@@ -5055,7 +5057,7 @@ IP-CIDR6,2607:6b80:5b::/48,no-resolve
 IP-CIDR6,2607:740:11::/48,no-resolve
 IP-CIDR6,2607:740:183::/48,no-resolve
 IP-CIDR6,2607:740:1c::/47,no-resolve
-IP-CIDR6,2607:740:22::/47,no-resolve
+IP-CIDR6,2607:740:22::/48,no-resolve
 IP-CIDR6,2607:740:24::/46,no-resolve
 IP-CIDR6,2607:740:2a::/47,no-resolve
 IP-CIDR6,2607:740:2c::/47,no-resolve
@@ -5068,7 +5070,6 @@ IP-CIDR6,2607:740:3f::/48,no-resolve
 IP-CIDR6,2607:740:57::/48,no-resolve
 IP-CIDR6,2607:740:58::/48,no-resolve
 IP-CIDR6,2607:740:5e::/48,no-resolve
-IP-CIDR6,2607:740:61::/48,no-resolve
 IP-CIDR6,2607:740:62::/48,no-resolve
 IP-CIDR6,2607:740:65::/48,no-resolve
 IP-CIDR6,2607:740:66::/48,no-resolve
@@ -5450,6 +5451,7 @@ IP-CIDR6,2a14:7581:2199::/48,no-resolve
 IP-CIDR6,2a14:7581:2341::/48,no-resolve
 IP-CIDR6,2a14:7581:2342::/48,no-resolve
 IP-CIDR6,2a14:7581:3101::/48,no-resolve
+IP-CIDR6,2a14:7581:7300::/48,no-resolve
 IP-CIDR6,2a14:7581:7a00::/44,no-resolve
 IP-CIDR6,2a14:7581:f90::/46,no-resolve
 IP-CIDR6,2a14:7581:f94::/47,no-resolve

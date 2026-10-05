@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: RU
 # 俄罗斯（Russia）
-# 数据日期: 2026-10-04
+# 数据日期: 2026-10-05
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 13058 条（IPv4: 10671 / IPv6: 2387）
+# 规则统计: 共 13062 条（IPv4: 10675 / IPv6: 2387）
 # ============================================================
 payload:
   - IP-CIDR,103.101.85.0/24,no-resolve
@@ -321,6 +321,7 @@ payload:
   - IP-CIDR,128.68.0.0/14,no-resolve
   - IP-CIDR,128.72.0.0/14,no-resolve
   - IP-CIDR,129.101.101.0/24,no-resolve
+  - IP-CIDR,129.101.112.0/21,no-resolve
   - IP-CIDR,129.101.64.0/19,no-resolve
   - IP-CIDR,129.101.96.0/24,no-resolve
   - IP-CIDR,13.143.170.0/24,no-resolve
@@ -657,6 +658,7 @@ payload:
   - IP-CIDR,153.51.32.0/19,no-resolve
   - IP-CIDR,153.51.64.0/18,no-resolve
   - IP-CIDR,153.52.68.0/24,no-resolve
+  - IP-CIDR,153.52.85.0/24,no-resolve
   - IP-CIDR,153.56.206.0/23,no-resolve
   - IP-CIDR,153.76.160.0/20,no-resolve
   - IP-CIDR,153.76.178.0/23,no-resolve
@@ -5046,6 +5048,7 @@ payload:
   - IP-CIDR,212.192.246.0/23,no-resolve
   - IP-CIDR,212.192.248.0/23,no-resolve
   - IP-CIDR,212.192.32.0/19,no-resolve
+  - IP-CIDR,212.192.5.0/24,no-resolve
   - IP-CIDR,212.192.64.0/18,no-resolve
   - IP-CIDR,212.192.9.0/24,no-resolve
   - IP-CIDR,212.193.10.0/23,no-resolve
@@ -6816,6 +6819,7 @@ payload:
   - IP-CIDR,46.8.97.0/24,no-resolve
   - IP-CIDR,46.8.99.0/24,no-resolve
   - IP-CIDR,5.1.41.0/24,no-resolve
+  - IP-CIDR,5.1.47.0/24,no-resolve
   - IP-CIDR,5.1.48.0/21,no-resolve
   - IP-CIDR,5.10.221.0/24,no-resolve
   - IP-CIDR,5.100.244.0/22,no-resolve

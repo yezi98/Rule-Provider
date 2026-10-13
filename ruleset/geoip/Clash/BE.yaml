@@ -1,7 +1,7 @@
 # ============================================================
 # Rule-Provider: BE
 # 比利时（Belgium）
-# 数据日期: 2026-10-11
+# 数据日期: 2026-10-13
 # 数据来源: APNIC + IPtoASN
 # 规则统计: 共 1688 条（IPv4: 1295 / IPv6: 393）
 # ============================================================
@@ -64,6 +64,7 @@ payload:
   - IP-CIDR,149.126.56.0/21,no-resolve
   - IP-CIDR,149.134.0.0/16,no-resolve
   - IP-CIDR,149.154.192.0/18,no-resolve
+  - IP-CIDR,149.245.252.0/24,no-resolve
   - IP-CIDR,149.5.27.0/24,no-resolve
   - IP-CIDR,150.251.0.0/20,no-resolve
   - IP-CIDR,151.240.77.0/24,no-resolve
@@ -1175,7 +1176,6 @@ payload:
   - IP-CIDR,87.238.224.0/21,no-resolve
   - IP-CIDR,87.64.0.0/14,no-resolve
   - IP-CIDR,87.76.193.0/24,no-resolve
-  - IP-CIDR,87.85.240.0/24,no-resolve
   - IP-CIDR,88.151.116.0/24,no-resolve
   - IP-CIDR,88.151.240.0/21,no-resolve
   - IP-CIDR,88.197.128.0/17,no-resolve

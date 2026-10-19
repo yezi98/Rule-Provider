@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: NL
 # 荷兰（Netherlands）
-# 数据日期: 2026-10-18
+# 数据日期: 2026-10-19
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 17024 条（IPv4: 11713 / IPv6: 5311）
+# 规则统计: 共 17017 条（IPv4: 11716 / IPv6: 5301）
 # ============================================================
 IP-CIDR,101.97.0.0/19,no-resolve
 IP-CIDR,101.97.32.0/22,no-resolve
@@ -1053,7 +1053,10 @@ IP-CIDR,129.176.240.0/24,no-resolve
 IP-CIDR,129.176.27.0/24,no-resolve
 IP-CIDR,129.185.16.0/24,no-resolve
 IP-CIDR,129.192.36.0/22,no-resolve
-IP-CIDR,129.35.160.0/20,no-resolve
+IP-CIDR,129.35.160.0/23,no-resolve
+IP-CIDR,129.35.163.0/24,no-resolve
+IP-CIDR,129.35.164.0/22,no-resolve
+IP-CIDR,129.35.168.0/21,no-resolve
 IP-CIDR,129.35.80.0/22,no-resolve
 IP-CIDR,129.35.96.0/20,no-resolve
 IP-CIDR,13.141.34.0/24,no-resolve
@@ -10673,6 +10676,7 @@ IP-CIDR,87.58.128.0/24,no-resolve
 IP-CIDR,87.58.192.0/19,no-resolve
 IP-CIDR,87.76.153.0/24,no-resolve
 IP-CIDR,87.76.212.0/24,no-resolve
+IP-CIDR,87.76.218.0/24,no-resolve
 IP-CIDR,87.98.0.0/17,no-resolve
 IP-CIDR,88.148.104.0/24,no-resolve
 IP-CIDR,88.148.121.0/24,no-resolve
@@ -11309,7 +11313,6 @@ IP-CIDR,91.244.118.0/24,no-resolve
 IP-CIDR,91.244.204.0/22,no-resolve
 IP-CIDR,91.244.224.0/24,no-resolve
 IP-CIDR,91.244.228.0/24,no-resolve
-IP-CIDR,91.244.236.0/24,no-resolve
 IP-CIDR,91.244.68.0/24,no-resolve
 IP-CIDR,91.245.220.0/24,no-resolve
 IP-CIDR,91.245.240.0/22,no-resolve
@@ -12223,17 +12226,7 @@ IP-CIDR6,2600:1403:5c40::/42,no-resolve
 IP-CIDR6,2600:1403:5c80::/41,no-resolve
 IP-CIDR6,2600:1403:5d00::/40,no-resolve
 IP-CIDR6,2600:1403:5e00::/39,no-resolve
-IP-CIDR6,2600:1403:6000::/38,no-resolve
-IP-CIDR6,2600:1403:6401::/48,no-resolve
-IP-CIDR6,2600:1403:6402::/47,no-resolve
-IP-CIDR6,2600:1403:6404::/46,no-resolve
-IP-CIDR6,2600:1403:6408::/45,no-resolve
-IP-CIDR6,2600:1403:6410::/44,no-resolve
-IP-CIDR6,2600:1403:6420::/43,no-resolve
-IP-CIDR6,2600:1403:6440::/42,no-resolve
-IP-CIDR6,2600:1403:6480::/41,no-resolve
-IP-CIDR6,2600:1403:6500::/40,no-resolve
-IP-CIDR6,2600:1403:6600::/39,no-resolve
+IP-CIDR6,2600:1403:6000::/37,no-resolve
 IP-CIDR6,2600:1403:6800::/38,no-resolve
 IP-CIDR6,2600:1403:6c01::/48,no-resolve
 IP-CIDR6,2600:1403:6c02::/47,no-resolve

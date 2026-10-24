@@ -1,7 +1,7 @@
 # ============================================================
 # Rule-Provider: AT
 # 奥地利（Austria）
-# 数据日期: 2026-10-23
+# 数据日期: 2026-10-24
 # 数据来源: APNIC + IPtoASN
 # 规则统计: 共 2826 条（IPv4: 2128 / IPv6: 698）
 # ============================================================
@@ -43,7 +43,6 @@ IP-CIDR,130.0.64.0/21,no-resolve
 IP-CIDR,130.117.7.0/24,no-resolve
 IP-CIDR,131.100.0.0/22,no-resolve
 IP-CIDR,131.130.0.0/16,no-resolve
-IP-CIDR,132.243.203.0/24,no-resolve
 IP-CIDR,134.255.210.0/23,no-resolve
 IP-CIDR,136.238.16.0/24,no-resolve
 IP-CIDR,137.208.0.0/16,no-resolve
@@ -1910,6 +1909,7 @@ IP-CIDR,89.44.148.0/23,no-resolve
 IP-CIDR,89.46.122.0/24,no-resolve
 IP-CIDR,89.46.124.0/24,no-resolve
 IP-CIDR,89.46.232.0/21,no-resolve
+IP-CIDR,9.247.43.0/24,no-resolve
 IP-CIDR,9.247.60.0/24,no-resolve
 IP-CIDR,90.146.0.0/16,no-resolve
 IP-CIDR,90.152.128.0/17,no-resolve

@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: Global
 # 全球（Global）
-# 数据日期: 2026-10-24
+# 数据日期: 2026-10-25
 # 数据来源: v2fly domain-list-community + CrUX top sites
-# 规则统计: 共 180565 条（域名: 180449 / 精确域名: 105 / 正则: 11）
+# 规则统计: 共 180576 条（域名: 180460 / 精确域名: 105 / 正则: 11）
 # ============================================================
 host-suffix, 000h555.com
 host-suffix, 000q789.com
@@ -23538,6 +23538,7 @@ host-suffix, bigchange.com
 host-suffix, bigclash4.com
 host-suffix, bigcommerce.com
 host-suffix, bigconvert.com
+host-suffix, bigdatacq.com
 host-suffix, bigdatape.com
 host-suffix, bigdogdick.com
 host-suffix, bigearlbikes.com
@@ -31602,6 +31603,8 @@ host-suffix, cdnviidey.site
 host-suffix, cdo-888.net
 host-suffix, cdoi.events
 host-suffix, cdplay.net
+host-suffix, cdrcb.com
+host-suffix, cdrcbank.com
 host-suffix, cdreader.com
 host-suffix, cdrmedios.com
 host-suffix, cdromance.org
@@ -34864,6 +34867,7 @@ host-suffix, clcindonesia.com
 host-suffix, clckfltr.com
 host-suffix, clclubs.com
 host-suffix, clcvenezuela.com
+host-suffix, cldisk.com
 host-suffix, cle-des-arts.com
 host-suffix, clean-kazoo-75.net
 host-suffix, cleanapps.site
@@ -38389,6 +38393,7 @@ host-suffix, cqbys.com
 host-suffix, cqcb.com
 host-suffix, cqccn.com
 host-suffix, cqcorea.com
+host-suffix, cqdcg.com
 host-suffix, cqfd-avocats.com
 host-suffix, cqliving.com
 host-suffix, cqnews.net
@@ -38396,6 +38401,7 @@ host-suffix, cqqq.shop
 host-suffix, cqranking.com
 host-suffix, cqsjb.com
 host-suffix, cqvip.com
+host-suffix, cqyyxc.com
 host-suffix, cr
 host-suffix, cr-11.com
 host-suffix, cr-chat.com
@@ -43680,6 +43686,7 @@ host-suffix, digitalcenterpy.com
 host-suffix, digitalcg.net
 host-suffix, digitalchina.com
 host-suffix, digitalclock.live
+host-suffix, digitalcnzz.com
 host-suffix, digitalcommerceplace.com
 host-suffix, digitalcreatorawards.com
 host-suffix, digitalcryptopay.com
@@ -47937,6 +47944,7 @@ host-suffix, ease.travel
 host-suffix, easebar.com
 host-suffix, easee.com
 host-suffix, easefulsteps.com
+host-suffix, easemob.com
 host-suffix, easemytrip.com
 host-suffix, easesale.com
 host-suffix, easetv.info
@@ -75061,6 +75069,7 @@ host-suffix, ibalbook.com
 host-suffix, iban.com
 host-suffix, ibancalculator.com
 host-suffix, ibanfirst.com
+host-suffix, ibangbank.com
 host-suffix, ibanking-services.com
 host-suffix, ibanoo.mom
 host-suffix, ibanoplata.com
@@ -79287,6 +79296,7 @@ host-suffix, ishuqi.com
 host-suffix, ishyiga.net
 host-suffix, isiboman.com
 host-suffix, isibomedia.com
+host-suffix, isigning.com
 host-suffix, isikeurmassar.com
 host-suffix, isikkitabevi.com
 host-suffix, isilver925.com
@@ -105156,7 +105166,6 @@ host-suffix, moeedu.org
 host-suffix, moefriends.com
 host-suffix, moegh.com
 host-suffix, moegirl.icu
-host-suffix, moegirl.org
 host-suffix, moegy.org
 host-suffix, moeinsocks.com
 host-suffix, moelectriclb.com
@@ -110486,6 +110495,7 @@ host-suffix, nannyideal.com
 host-suffix, nano-manga.com
 host-suffix, nanobionic.com
 host-suffix, nanocom-bg.com
+host-suffix, nanocorechip.com
 host-suffix, nanoderma.online
 host-suffix, nanodog.net
 host-suffix, nanoe.net
@@ -175820,6 +175830,7 @@ host-suffix, xuetk.vip
 host-suffix, xuexi365.com
 host-suffix, xuexi365.net
 host-suffix, xuexicha.com
+host-suffix, xuexitong.com
 host-suffix, xuitebackup.net
 host-suffix, xujan.com
 host-suffix, xujc.com

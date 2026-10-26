@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: Global
 # 全球（Global）
-# 数据日期: 2026-10-25
+# 数据日期: 2026-10-26
 # 数据来源: v2fly domain-list-community + CrUX top sites
-# 规则统计: 共 180576 条（域名: 180460 / 精确域名: 105 / 正则: 11）
+# 规则统计: 共 180578 条（域名: 180464 / 精确域名: 103 / 正则: 11）
 # ============================================================
 DOMAIN-SUFFIX,000h555.com
 DOMAIN-SUFFIX,000q789.com
@@ -57268,6 +57268,7 @@ DOMAIN-SUFFIX,filmola.com
 DOMAIN-SUFFIX,filmoland.com
 DOMAIN-SUFFIX,filmolino.net
 DOMAIN-SUFFIX,filmonizirani.net
+DOMAIN-SUFFIX,filmorigin.com
 DOMAIN-SUFFIX,filmot.com
 DOMAIN-SUFFIX,filmotip.org
 DOMAIN-SUFFIX,filmoton.org
@@ -81785,7 +81786,6 @@ DOMAIN-SUFFIX,jikecdn.com
 DOMAIN-SUFFIX,jikeiot.cloud
 DOMAIN-SUFFIX,jikexueyuan.com
 DOMAIN-SUFFIX,jikguunni.com
-DOMAIN-SUFFIX,jikipedia.com
 DOMAIN-SUFFIX,jikiu.com
 DOMAIN-SUFFIX,jikotach.online
 DOMAIN-SUFFIX,jil.travel
@@ -84154,6 +84154,7 @@ DOMAIN-SUFFIX,kakaopiccoma.com
 DOMAIN-SUFFIX,kakaostyle.com
 DOMAIN-SUFFIX,kakaovx.com
 DOMAIN-SUFFIX,kakaowork.com
+DOMAIN-SUFFIX,kakaxing.com
 DOMAIN-SUFFIX,kakekmerah4dempat.com
 DOMAIN-SUFFIX,kakhacker.com
 DOMAIN-SUFFIX,kaki21.site
@@ -111776,6 +111777,7 @@ DOMAIN-SUFFIX,netflav.com
 DOMAIN-SUFFIX,netflav5.com
 DOMAIN-SUFFIX,netflix-news.com
 DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,netflix.net
 DOMAIN-SUFFIX,netflixdnstest0.com
 DOMAIN-SUFFIX,netflixdnstest1.com
@@ -147725,6 +147727,7 @@ DOMAIN-SUFFIX,spotidown.net
 DOMAIN-SUFFIX,spotidownloader.com
 DOMAIN-SUFFIX,spotify-everywhere.com
 DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spotify.com.edgesuite.net
 DOMAIN-SUFFIX,spotify.design
 DOMAIN-SUFFIX,spotify.link
 DOMAIN-SUFFIX,spotifycdn.com
@@ -174688,6 +174691,7 @@ DOMAIN-SUFFIX,xiaolu.pro
 DOMAIN-SUFFIX,xiaoluyouxuan.com
 DOMAIN-SUFFIX,xiaoluzhidian.com
 DOMAIN-SUFFIX,xiaomaicn.com
+DOMAIN-SUFFIX,xiaomaigui.com
 DOMAIN-SUFFIX,xiaomengai.com
 DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,xiaomi.net
@@ -180524,7 +180528,6 @@ DOMAIN,linear-abematv.akamaized.net
 DOMAIN,mesu-cdn.apple.com.akadns.net
 DOMAIN,mesu-china.apple.com.akadns.net
 DOMAIN,mwf-service.akamaized.net
-DOMAIN,netflix.com.edgesuite.net
 DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN,openaicom.imgix.net
 DOMAIN,oscdn.origin-apple.com.akadns.net
@@ -180541,7 +180544,6 @@ DOMAIN,roovza-launches.appsflyersdk.com
 DOMAIN,roovza.inapps.appsflyersdk.com
 DOMAIN,roovza.launches.appsflyersdk.com
 DOMAIN,roovza.skadsdk.appsflyersdk.com
-DOMAIN,spotify.com.edgesuite.net
 DOMAIN,spotify.map.fastly.net
 DOMAIN,spotify.map.fastlylb.net
 DOMAIN,statics-marketingsites-eas-ms-com.akamaized.net

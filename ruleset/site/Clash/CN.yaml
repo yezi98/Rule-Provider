@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: CN
 # 中国（China）
-# 数据日期: 2026-10-25
+# 数据日期: 2026-10-26
 # 数据来源: v2fly domain-list-community + CrUX top sites
-# 规则统计: 共 10322 条（域名: 10304 / 精确域名: 15 / 正则: 3）
+# 规则统计: 共 10324 条（域名: 10306 / 精确域名: 15 / 正则: 3）
 # ============================================================
 payload:
   - DOMAIN-SUFFIX,00cdn.com
@@ -3420,6 +3420,7 @@ payload:
   - DOMAIN-SUFFIX,filemood.com
   - DOMAIN-SUFFIX,filez.com
   - DOMAIN-SUFFIX,filmnudes.com
+  - DOMAIN-SUFFIX,filmorigin.com
   - DOMAIN-SUFFIX,fimfiction.net
   - DOMAIN-SUFFIX,fimmu.com
   - DOMAIN-SUFFIX,finchina.com
@@ -4970,7 +4971,6 @@ payload:
   - DOMAIN-SUFFIX,jikecdn.com
   - DOMAIN-SUFFIX,jikeiot.cloud
   - DOMAIN-SUFFIX,jikexueyuan.com
-  - DOMAIN-SUFFIX,jikipedia.com
   - DOMAIN-SUFFIX,jimeng.com
   - DOMAIN-SUFFIX,jin10.com
   - DOMAIN-SUFFIX,jinchutou.com
@@ -5181,6 +5181,7 @@ payload:
   - DOMAIN-SUFFIX,kajicam.com
   - DOMAIN-SUFFIX,kakagal.com
   - DOMAIN-SUFFIX,kakao.com
+  - DOMAIN-SUFFIX,kakaxing.com
   - DOMAIN-SUFFIX,kameng98.com
   - DOMAIN-SUFFIX,kamept.com
   - DOMAIN-SUFFIX,kanav.ad
@@ -9530,6 +9531,7 @@ payload:
   - DOMAIN-SUFFIX,xiaoluyouxuan.com
   - DOMAIN-SUFFIX,xiaoluzhidian.com
   - DOMAIN-SUFFIX,xiaomaicn.com
+  - DOMAIN-SUFFIX,xiaomaigui.com
   - DOMAIN-SUFFIX,xiaomengai.com
   - DOMAIN-SUFFIX,xiaomi.com
   - DOMAIN-SUFFIX,xiaomi.net

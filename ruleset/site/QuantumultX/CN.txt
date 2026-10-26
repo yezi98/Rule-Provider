@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: CN
 # 中国（China）
-# 数据日期: 2026-10-25
+# 数据日期: 2026-10-26
 # 数据来源: v2fly domain-list-community + CrUX top sites
-# 规则统计: 共 10322 条（域名: 10304 / 精确域名: 15 / 正则: 3）
+# 规则统计: 共 10324 条（域名: 10306 / 精确域名: 15 / 正则: 3）
 # ============================================================
 host-suffix, 00cdn.com
 host-suffix, 0101.co.jp
@@ -3419,6 +3419,7 @@ host-suffix, fikfap.com
 host-suffix, filemood.com
 host-suffix, filez.com
 host-suffix, filmnudes.com
+host-suffix, filmorigin.com
 host-suffix, fimfiction.net
 host-suffix, fimmu.com
 host-suffix, finchina.com
@@ -4969,7 +4970,6 @@ host-suffix, jike.city
 host-suffix, jikecdn.com
 host-suffix, jikeiot.cloud
 host-suffix, jikexueyuan.com
-host-suffix, jikipedia.com
 host-suffix, jimeng.com
 host-suffix, jin10.com
 host-suffix, jinchutou.com
@@ -5180,6 +5180,7 @@ host-suffix, kaixin001.com
 host-suffix, kajicam.com
 host-suffix, kakagal.com
 host-suffix, kakao.com
+host-suffix, kakaxing.com
 host-suffix, kameng98.com
 host-suffix, kamept.com
 host-suffix, kanav.ad
@@ -9529,6 +9530,7 @@ host-suffix, xiaolianhb.com
 host-suffix, xiaoluyouxuan.com
 host-suffix, xiaoluzhidian.com
 host-suffix, xiaomaicn.com
+host-suffix, xiaomaigui.com
 host-suffix, xiaomengai.com
 host-suffix, xiaomi.com
 host-suffix, xiaomi.net

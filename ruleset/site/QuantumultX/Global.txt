@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: Global
 # 全球（Global）
-# 数据日期: 2026-10-25
+# 数据日期: 2026-10-26
 # 数据来源: v2fly domain-list-community + CrUX top sites
-# 规则统计: 共 180576 条（域名: 180460 / 精确域名: 105 / 正则: 11）
+# 规则统计: 共 180578 条（域名: 180464 / 精确域名: 103 / 正则: 11）
 # ============================================================
 host-suffix, 000h555.com
 host-suffix, 000q789.com
@@ -57268,6 +57268,7 @@ host-suffix, filmola.com
 host-suffix, filmoland.com
 host-suffix, filmolino.net
 host-suffix, filmonizirani.net
+host-suffix, filmorigin.com
 host-suffix, filmot.com
 host-suffix, filmotip.org
 host-suffix, filmoton.org
@@ -81785,7 +81786,6 @@ host-suffix, jikecdn.com
 host-suffix, jikeiot.cloud
 host-suffix, jikexueyuan.com
 host-suffix, jikguunni.com
-host-suffix, jikipedia.com
 host-suffix, jikiu.com
 host-suffix, jikotach.online
 host-suffix, jil.travel
@@ -84154,6 +84154,7 @@ host-suffix, kakaopiccoma.com
 host-suffix, kakaostyle.com
 host-suffix, kakaovx.com
 host-suffix, kakaowork.com
+host-suffix, kakaxing.com
 host-suffix, kakekmerah4dempat.com
 host-suffix, kakhacker.com
 host-suffix, kaki21.site
@@ -111776,6 +111777,7 @@ host-suffix, netflav.com
 host-suffix, netflav5.com
 host-suffix, netflix-news.com
 host-suffix, netflix.com
+host-suffix, netflix.com.edgesuite.net
 host-suffix, netflix.net
 host-suffix, netflixdnstest0.com
 host-suffix, netflixdnstest1.com
@@ -147725,6 +147727,7 @@ host-suffix, spotidown.net
 host-suffix, spotidownloader.com
 host-suffix, spotify-everywhere.com
 host-suffix, spotify.com
+host-suffix, spotify.com.edgesuite.net
 host-suffix, spotify.design
 host-suffix, spotify.link
 host-suffix, spotifycdn.com
@@ -174688,6 +174691,7 @@ host-suffix, xiaolu.pro
 host-suffix, xiaoluyouxuan.com
 host-suffix, xiaoluzhidian.com
 host-suffix, xiaomaicn.com
+host-suffix, xiaomaigui.com
 host-suffix, xiaomengai.com
 host-suffix, xiaomi.com
 host-suffix, xiaomi.net
@@ -180524,7 +180528,6 @@ host, linear-abematv.akamaized.net
 host, mesu-cdn.apple.com.akadns.net
 host, mesu-china.apple.com.akadns.net
 host, mwf-service.akamaized.net
-host, netflix.com.edgesuite.net
 host, officecdn-microsoft-com.akamaized.net
 host, openaicom.imgix.net
 host, oscdn.origin-apple.com.akadns.net
@@ -180541,7 +180544,6 @@ host, roovza-launches.appsflyersdk.com
 host, roovza.inapps.appsflyersdk.com
 host, roovza.launches.appsflyersdk.com
 host, roovza.skadsdk.appsflyersdk.com
-host, spotify.com.edgesuite.net
 host, spotify.map.fastly.net
 host, spotify.map.fastlylb.net
 host, statics-marketingsites-eas-ms-com.akamaized.net

@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: SE
 # 瑞典（Sweden）
-# 数据日期: 2026-10-25
+# 数据日期: 2026-10-26
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 3353 条（IPv4: 2385 / IPv6: 968）
+# 规则统计: 共 3355 条（IPv4: 2387 / IPv6: 968）
 # ============================================================
 payload:
   - IP-CIDR,103.103.84.0/22,no-resolve
@@ -211,6 +211,7 @@ payload:
   - IP-CIDR,151.252.24.0/21,no-resolve
   - IP-CIDR,153.112.0.0/16,no-resolve
   - IP-CIDR,153.52.86.0/24,no-resolve
+  - IP-CIDR,153.76.10.0/24,no-resolve
   - IP-CIDR,153.88.0.0/16,no-resolve
   - IP-CIDR,154.43.129.0/24,no-resolve
   - IP-CIDR,154.43.132.0/24,no-resolve
@@ -1394,6 +1395,7 @@ payload:
   - IP-CIDR,198.49.103.0/24,no-resolve
   - IP-CIDR,198.55.30.0/24,no-resolve
   - IP-CIDR,199.163.0.0/16,no-resolve
+  - IP-CIDR,199.180.195.0/24,no-resolve
   - IP-CIDR,199.198.157.0/24,no-resolve
   - IP-CIDR,199.198.158.0/24,no-resolve
   - IP-CIDR,199.201.117.0/24,no-resolve

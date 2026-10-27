@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: KR
 # 韩国（South Korea）
-# 数据日期: 2026-10-26
+# 数据日期: 2026-10-27
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 1829 条（IPv4: 1637 / IPv6: 192）
+# 规则统计: 共 1828 条（IPv4: 1637 / IPv6: 191）
 # ============================================================
 IP-CIDR,1.11.0.0/16,no-resolve
 IP-CIDR,1.16.0.0/15,no-resolve
@@ -494,6 +494,7 @@ IP-CIDR,119.192.0.0/11,no-resolve
 IP-CIDR,119.235.192.0/20,no-resolve
 IP-CIDR,119.235.240.0/21,no-resolve
 IP-CIDR,119.27.192.0/20,no-resolve
+IP-CIDR,119.27.240.0/20,no-resolve
 IP-CIDR,119.30.128.0/18,no-resolve
 IP-CIDR,119.31.240.0/20,no-resolve
 IP-CIDR,119.42.160.0/19,no-resolve
@@ -744,7 +745,6 @@ IP-CIDR,160.20.142.0/24,no-resolve
 IP-CIDR,160.202.160.0/22,no-resolve
 IP-CIDR,160.202.172.0/22,no-resolve
 IP-CIDR,160.202.176.0/22,no-resolve
-IP-CIDR,160.22.155.0/24,no-resolve
 IP-CIDR,160.236.41.0/24,no-resolve
 IP-CIDR,160.250.152.0/22,no-resolve
 IP-CIDR,160.30.106.0/23,no-resolve
@@ -1674,7 +1674,6 @@ IP-CIDR6,2001:df0:d580::/48,no-resolve
 IP-CIDR6,2001:df0:e540::/48,no-resolve
 IP-CIDR6,2001:df1:6003::/48,no-resolve
 IP-CIDR6,2001:df1:6c80::/48,no-resolve
-IP-CIDR6,2001:df3:d9c0::/48,no-resolve
 IP-CIDR6,2001:df4:f780::/48,no-resolve
 IP-CIDR6,2001:df5:5c40::/48,no-resolve
 IP-CIDR6,2001:df5:6800::/48,no-resolve

@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: SG
 # 新加坡（Singapore）
-# 数据日期: 2026-10-26
+# 数据日期: 2026-10-27
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 4112 条（IPv4: 3228 / IPv6: 884）
+# 规则统计: 共 4113 条（IPv4: 3228 / IPv6: 885）
 # ============================================================
 IP-CIDR,1.178.32.0/19,no-resolve
 IP-CIDR,1.21.224.0/19,no-resolve
@@ -1163,6 +1163,7 @@ IP-CIDR,151.192.0.0/16,no-resolve
 IP-CIDR,151.236.216.0/21,no-resolve
 IP-CIDR,151.240.119.0/24,no-resolve
 IP-CIDR,151.240.124.0/24,no-resolve
+IP-CIDR,151.240.17.0/24,no-resolve
 IP-CIDR,151.240.23.0/24,no-resolve
 IP-CIDR,151.240.29.0/24,no-resolve
 IP-CIDR,151.240.31.0/24,no-resolve
@@ -1341,6 +1342,7 @@ IP-CIDR,159.138.0.0/16,no-resolve
 IP-CIDR,159.172.245.0/24,no-resolve
 IP-CIDR,159.180.176.0/21,no-resolve
 IP-CIDR,16.5.22.0/23,no-resolve
+IP-CIDR,16.5.26.0/23,no-resolve
 IP-CIDR,160.187.134.0/23,no-resolve
 IP-CIDR,160.187.202.0/23,no-resolve
 IP-CIDR,160.187.32.0/23,no-resolve
@@ -2721,8 +2723,6 @@ IP-CIDR,38.127.4.0/24,no-resolve
 IP-CIDR,38.135.136.0/23,no-resolve
 IP-CIDR,38.135.140.0/22,no-resolve
 IP-CIDR,38.143.180.0/22,no-resolve
-IP-CIDR,38.181.4.0/23,no-resolve
-IP-CIDR,38.181.48.0/21,no-resolve
 IP-CIDR,38.188.216.0/21,no-resolve
 IP-CIDR,38.191.240.0/21,no-resolve
 IP-CIDR,38.211.116.0/24,no-resolve
@@ -3465,6 +3465,7 @@ IP-CIDR6,2400:f960::/32,no-resolve
 IP-CIDR6,2400:fb80::/32,no-resolve
 IP-CIDR6,2401:1120::/32,no-resolve
 IP-CIDR6,2401:1640::/32,no-resolve
+IP-CIDR6,2401:17a0::/32,no-resolve
 IP-CIDR6,2401:1f80::/32,no-resolve
 IP-CIDR6,2401:2020::/32,no-resolve
 IP-CIDR6,2401:2120::/32,no-resolve

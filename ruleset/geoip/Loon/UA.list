@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: UA
 # 乌克兰（Ukraine）
-# 数据日期: 2026-10-26
+# 数据日期: 2026-10-27
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 4754 条（IPv4: 3998 / IPv6: 756）
+# 规则统计: 共 4755 条（IPv4: 3999 / IPv6: 756）
 # ============================================================
 IP-CIDR,102.165.44.0/24,no-resolve
 IP-CIDR,102.165.59.0/24,no-resolve
@@ -713,6 +713,7 @@ IP-CIDR,178.54.128.0/17,no-resolve
 IP-CIDR,178.74.192.0/18,no-resolve
 IP-CIDR,178.83.5.0/24,no-resolve
 IP-CIDR,178.92.0.0/14,no-resolve
+IP-CIDR,179.236.130.0/24,no-resolve
 IP-CIDR,179.236.32.0/23,no-resolve
 IP-CIDR,179.236.35.0/24,no-resolve
 IP-CIDR,179.236.36.0/24,no-resolve

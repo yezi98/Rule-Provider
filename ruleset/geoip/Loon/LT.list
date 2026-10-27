@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: LT
 # 立陶宛（Lithuania）
-# 数据日期: 2026-10-26
+# 数据日期: 2026-10-27
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 2770 条（IPv4: 2350 / IPv6: 420）
+# 规则统计: 共 2782 条（IPv4: 2362 / IPv6: 420）
 # ============================================================
 IP-CIDR,102.128.167.0/24,no-resolve
 IP-CIDR,102.129.133.0/24,no-resolve
@@ -497,6 +497,8 @@ IP-CIDR,178.83.52.0/24,no-resolve
 IP-CIDR,178.83.67.0/24,no-resolve
 IP-CIDR,178.83.91.0/24,no-resolve
 IP-CIDR,178.92.124.0/24,no-resolve
+IP-CIDR,178.92.238.0/23,no-resolve
+IP-CIDR,178.92.244.0/23,no-resolve
 IP-CIDR,178.92.32.0/22,no-resolve
 IP-CIDR,178.92.43.0/24,no-resolve
 IP-CIDR,178.92.57.0/24,no-resolve
@@ -531,6 +533,9 @@ IP-CIDR,178.94.163.0/24,no-resolve
 IP-CIDR,178.94.164.0/23,no-resolve
 IP-CIDR,178.94.166.0/24,no-resolve
 IP-CIDR,178.94.198.0/24,no-resolve
+IP-CIDR,178.94.201.0/24,no-resolve
+IP-CIDR,178.94.204.0/24,no-resolve
+IP-CIDR,178.94.207.0/24,no-resolve
 IP-CIDR,178.94.222.0/24,no-resolve
 IP-CIDR,178.94.233.0/24,no-resolve
 IP-CIDR,178.94.31.0/24,no-resolve
@@ -1632,6 +1637,7 @@ IP-CIDR,51.194.227.0/24,no-resolve
 IP-CIDR,51.194.231.0/24,no-resolve
 IP-CIDR,51.194.232.0/23,no-resolve
 IP-CIDR,51.194.234.0/24,no-resolve
+IP-CIDR,51.194.238.0/23,no-resolve
 IP-CIDR,51.194.242.0/24,no-resolve
 IP-CIDR,51.194.246.0/23,no-resolve
 IP-CIDR,51.194.248.0/24,no-resolve
@@ -2164,7 +2170,13 @@ IP-CIDR,89.47.37.0/24,no-resolve
 IP-CIDR,90.96.118.0/23,no-resolve
 IP-CIDR,90.96.120.0/23,no-resolve
 IP-CIDR,90.96.122.0/24,no-resolve
+IP-CIDR,90.96.71.0/24,no-resolve
 IP-CIDR,90.96.72.0/21,no-resolve
+IP-CIDR,90.96.80.0/24,no-resolve
+IP-CIDR,90.96.82.0/23,no-resolve
+IP-CIDR,90.96.84.0/23,no-resolve
+IP-CIDR,90.96.88.0/23,no-resolve
+IP-CIDR,90.96.92.0/22,no-resolve
 IP-CIDR,91.102.167.0/24,no-resolve
 IP-CIDR,91.103.108.0/23,no-resolve
 IP-CIDR,91.103.143.0/24,no-resolve

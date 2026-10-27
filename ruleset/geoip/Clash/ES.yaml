@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: ES
 # 西班牙（Spain）
-# 数据日期: 2026-10-26
+# 数据日期: 2026-10-27
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 5261 条（IPv4: 4023 / IPv6: 1238）
+# 规则统计: 共 5260 条（IPv4: 4023 / IPv6: 1237）
 # ============================================================
 payload:
   - IP-CIDR,102.177.129.0/24,no-resolve
@@ -4050,7 +4050,6 @@ payload:
   - IP-CIDR6,2001:3786:2067::/48,no-resolve
   - IP-CIDR6,2001:3786:2099::/48,no-resolve
   - IP-CIDR6,2001:3786:2222::/48,no-resolve
-  - IP-CIDR6,2001:3786:2323::/48,no-resolve
   - IP-CIDR6,2001:3786:23ab::/48,no-resolve
   - IP-CIDR6,2001:3786:2929::/48,no-resolve
   - IP-CIDR6,2001:3786:2::/47,no-resolve
@@ -4081,7 +4080,6 @@ payload:
   - IP-CIDR6,2001:3786:5007::/48,no-resolve
   - IP-CIDR6,2001:3786:5008::/47,no-resolve
   - IP-CIDR6,2001:3786:5010::/47,no-resolve
-  - IP-CIDR6,2001:3786:5012::/48,no-resolve
   - IP-CIDR6,2001:3786:5015::/48,no-resolve
   - IP-CIDR6,2001:3786:5017::/48,no-resolve
   - IP-CIDR6,2001:3786:5069::/48,no-resolve
@@ -4705,6 +4703,7 @@ payload:
   - IP-CIDR6,2a06:7540::/29,no-resolve
   - IP-CIDR6,2a06:8c40::/29,no-resolve
   - IP-CIDR6,2a06:9801:225::/48,no-resolve
+  - IP-CIDR6,2a06:9801:53::/48,no-resolve
   - IP-CIDR6,2a06:9801:749::/48,no-resolve
   - IP-CIDR6,2a06:9801:7d5::/48,no-resolve
   - IP-CIDR6,2a06:9801:7f9::/48,no-resolve

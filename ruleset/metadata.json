@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27",
+  "generated_at": "2026-10-28",
   "source": "APNIC + IPtoASN",
   "country_count": 242,
   "global_provider": {
-    "total_cidrs": 177110,
-    "ipv4_cidrs": 107533,
-    "ipv6_cidrs": 69577
+    "total_cidrs": 177129,
+    "ipv4_cidrs": 107542,
+    "ipv6_cidrs": 69587
   },
   "countries": {
     "AD": {
@@ -18,9 +18,9 @@
     "AE": {
       "name_en": "United Arab Emirates",
       "name_zh": "阿联酋",
-      "ipv4_cidrs": 1973,
+      "ipv4_cidrs": 1976,
       "ipv6_cidrs": 705,
-      "total_cidrs": 2678
+      "total_cidrs": 2681
     },
     "AF": {
       "name_en": "Afghanistan",
@@ -53,9 +53,9 @@
     "AM": {
       "name_en": "Armenia",
       "name_zh": "亚美尼亚",
-      "ipv4_cidrs": 283,
+      "ipv4_cidrs": 284,
       "ipv6_cidrs": 69,
-      "total_cidrs": 352
+      "total_cidrs": 353
     },
     "AO": {
       "name_en": "Angola",
@@ -81,9 +81,9 @@
     "AR": {
       "name_en": "Argentina",
       "name_zh": "阿根廷",
-      "ipv4_cidrs": 1857,
+      "ipv4_cidrs": 1858,
       "ipv6_cidrs": 1214,
-      "total_cidrs": 3071
+      "total_cidrs": 3072
     },
     "AS": {
       "name_en": "American Samoa",
@@ -102,9 +102,9 @@
     "AU": {
       "name_en": "Australia",
       "name_zh": "澳大利亚",
-      "ipv4_cidrs": 7098,
+      "ipv4_cidrs": 7102,
       "ipv6_cidrs": 2381,
-      "total_cidrs": 9479
+      "total_cidrs": 9483
     },
     "AW": {
       "name_en": "Aruba",
@@ -144,16 +144,16 @@
     "BD": {
       "name_en": "Bangladesh",
       "name_zh": "孟加拉国",
-      "ipv4_cidrs": 2578,
-      "ipv6_cidrs": 1687,
-      "total_cidrs": 4265
+      "ipv4_cidrs": 2600,
+      "ipv6_cidrs": 1688,
+      "total_cidrs": 4288
     },
     "BE": {
       "name_en": "Belgium",
       "name_zh": "比利时",
-      "ipv4_cidrs": 1299,
+      "ipv4_cidrs": 1298,
       "ipv6_cidrs": 393,
-      "total_cidrs": 1692
+      "total_cidrs": 1691
     },
     "BF": {
       "name_en": "Burkina Faso",
@@ -165,9 +165,9 @@
     "BG": {
       "name_en": "Bulgaria",
       "name_zh": "保加利亚",
-      "ipv4_cidrs": 1710,
+      "ipv4_cidrs": 1709,
       "ipv6_cidrs": 433,
-      "total_cidrs": 2143
+      "total_cidrs": 2142
     },
     "BH": {
       "name_en": "Bahrain",
@@ -228,9 +228,9 @@
     "BR": {
       "name_en": "Brazil",
       "name_zh": "巴西",
-      "ipv4_cidrs": 6565,
-      "ipv6_cidrs": 9097,
-      "total_cidrs": 15662
+      "ipv4_cidrs": 6562,
+      "ipv6_cidrs": 9112,
+      "total_cidrs": 15674
     },
     "BS": {
       "name_en": "Bahamas",
@@ -270,9 +270,9 @@
     "CA": {
       "name_en": "Canada",
       "name_zh": "加拿大",
-      "ipv4_cidrs": 8086,
-      "ipv6_cidrs": 1471,
-      "total_cidrs": 9557
+      "ipv4_cidrs": 8089,
+      "ipv6_cidrs": 1484,
+      "total_cidrs": 9573
     },
     "CD": {
       "name_en": "Democratic Republic of the Congo",
@@ -299,8 +299,8 @@
       "name_en": "Switzerland",
       "name_zh": "瑞士",
       "ipv4_cidrs": 3110,
-      "ipv6_cidrs": 921,
-      "total_cidrs": 4031
+      "ipv6_cidrs": 923,
+      "total_cidrs": 4033
     },
     "CI": {
       "name_en": "Côte d'Ivoire",
@@ -319,9 +319,9 @@
     "CL": {
       "name_en": "Chile",
       "name_zh": "智利",
-      "ipv4_cidrs": 754,
+      "ipv4_cidrs": 755,
       "ipv6_cidrs": 340,
-      "total_cidrs": 1094
+      "total_cidrs": 1095
     },
     "CM": {
       "name_en": "Cameroon",
@@ -333,9 +333,9 @@
     "CN": {
       "name_en": "China",
       "name_zh": "中国",
-      "ipv4_cidrs": 7035,
-      "ipv6_cidrs": 3225,
-      "total_cidrs": 10260
+      "ipv4_cidrs": 7036,
+      "ipv6_cidrs": 3213,
+      "total_cidrs": 10249
     },
     "CO": {
       "name_en": "Colombia",
@@ -375,23 +375,23 @@
     "CY": {
       "name_en": "Cyprus",
       "name_zh": "塞浦路斯",
-      "ipv4_cidrs": 2319,
+      "ipv4_cidrs": 2316,
       "ipv6_cidrs": 416,
-      "total_cidrs": 2735
+      "total_cidrs": 2732
     },
     "CZ": {
       "name_en": "Czechia",
       "name_zh": "捷克",
-      "ipv4_cidrs": 1723,
-      "ipv6_cidrs": 783,
-      "total_cidrs": 2506
+      "ipv4_cidrs": 1724,
+      "ipv6_cidrs": 784,
+      "total_cidrs": 2508
     },
     "DE": {
       "name_en": "Germany",
       "name_zh": "德国",
-      "ipv4_cidrs": 10784,
-      "ipv6_cidrs": 3969,
-      "total_cidrs": 14753
+      "ipv4_cidrs": 10776,
+      "ipv6_cidrs": 3973,
+      "total_cidrs": 14749
     },
     "DJ": {
       "name_en": "Djibouti",
@@ -417,9 +417,9 @@
     "DO": {
       "name_en": "Dominican Republic",
       "name_zh": "多米尼加",
-      "ipv4_cidrs": 449,
+      "ipv4_cidrs": 451,
       "ipv6_cidrs": 218,
-      "total_cidrs": 667
+      "total_cidrs": 669
     },
     "DZ": {
       "name_en": "Algeria",
@@ -431,16 +431,16 @@
     "EC": {
       "name_en": "Ecuador",
       "name_zh": "厄瓜多尔",
-      "ipv4_cidrs": 393,
+      "ipv4_cidrs": 394,
       "ipv6_cidrs": 283,
-      "total_cidrs": 676
+      "total_cidrs": 677
     },
     "EE": {
       "name_en": "Estonia",
       "name_zh": "爱沙尼亚",
-      "ipv4_cidrs": 1097,
+      "ipv4_cidrs": 1096,
       "ipv6_cidrs": 315,
-      "total_cidrs": 1412
+      "total_cidrs": 1411
     },
     "EG": {
       "name_en": "Egypt",
@@ -459,9 +459,9 @@
     "ES": {
       "name_en": "Spain",
       "name_zh": "西班牙",
-      "ipv4_cidrs": 4023,
-      "ipv6_cidrs": 1237,
-      "total_cidrs": 5260
+      "ipv4_cidrs": 4022,
+      "ipv6_cidrs": 1239,
+      "total_cidrs": 5261
     },
     "ET": {
       "name_en": "Ethiopia",
@@ -480,9 +480,9 @@
     "FI": {
       "name_en": "Finland",
       "name_zh": "芬兰",
-      "ipv4_cidrs": 1178,
+      "ipv4_cidrs": 1182,
       "ipv6_cidrs": 347,
-      "total_cidrs": 1525
+      "total_cidrs": 1529
     },
     "FJ": {
       "name_en": "Fiji",
@@ -515,9 +515,9 @@
     "FR": {
       "name_en": "France",
       "name_zh": "法国",
-      "ipv4_cidrs": 5974,
-      "ipv6_cidrs": 1840,
-      "total_cidrs": 7814
+      "ipv4_cidrs": 5978,
+      "ipv6_cidrs": 1843,
+      "total_cidrs": 7821
     },
     "GA": {
       "name_en": "Gabon",
@@ -529,9 +529,9 @@
     "GB": {
       "name_en": "United Kingdom",
       "name_zh": "英国",
-      "ipv4_cidrs": 16743,
-      "ipv6_cidrs": 3967,
-      "total_cidrs": 20710
+      "ipv4_cidrs": 16734,
+      "ipv6_cidrs": 3965,
+      "total_cidrs": 20699
     },
     "GD": {
       "name_en": "Grenada",
@@ -543,9 +543,9 @@
     "GE": {
       "name_en": "Georgia",
       "name_zh": "格鲁吉亚",
-      "ipv4_cidrs": 534,
+      "ipv4_cidrs": 532,
       "ipv6_cidrs": 103,
-      "total_cidrs": 637
+      "total_cidrs": 635
     },
     "GF": {
       "name_en": "French Guiana",
@@ -655,9 +655,9 @@
     "HK": {
       "name_en": "Hong Kong",
       "name_zh": "中国香港",
-      "ipv4_cidrs": 7956,
-      "ipv6_cidrs": 1568,
-      "total_cidrs": 9524
+      "ipv4_cidrs": 7941,
+      "ipv6_cidrs": 1570,
+      "total_cidrs": 9511
     },
     "HN": {
       "name_en": "Honduras",
@@ -690,23 +690,23 @@
     "ID": {
       "name_en": "Indonesia",
       "name_zh": "印度尼西亚",
-      "ipv4_cidrs": 5288,
-      "ipv6_cidrs": 3009,
-      "total_cidrs": 8297
+      "ipv4_cidrs": 5290,
+      "ipv6_cidrs": 3011,
+      "total_cidrs": 8301
     },
     "IE": {
       "name_en": "Ireland",
       "name_zh": "爱尔兰",
-      "ipv4_cidrs": 1091,
+      "ipv4_cidrs": 1090,
       "ipv6_cidrs": 324,
-      "total_cidrs": 1415
+      "total_cidrs": 1414
     },
     "IL": {
       "name_en": "Israel",
       "name_zh": "以色列",
-      "ipv4_cidrs": 1178,
+      "ipv4_cidrs": 1176,
       "ipv6_cidrs": 281,
-      "total_cidrs": 1459
+      "total_cidrs": 1457
     },
     "IM": {
       "name_en": "Isle of Man",
@@ -718,9 +718,9 @@
     "IN": {
       "name_en": "India",
       "name_zh": "印度",
-      "ipv4_cidrs": 8996,
-      "ipv6_cidrs": 3052,
-      "total_cidrs": 12048
+      "ipv4_cidrs": 8993,
+      "ipv6_cidrs": 3053,
+      "total_cidrs": 12046
     },
     "IO": {
       "name_en": "British Indian Ocean Territory",
@@ -754,8 +754,8 @@
       "name_en": "Italy",
       "name_zh": "意大利",
       "ipv4_cidrs": 4155,
-      "ipv6_cidrs": 1288,
-      "total_cidrs": 5443
+      "ipv6_cidrs": 1289,
+      "total_cidrs": 5444
     },
     "JE": {
       "name_en": "Jersey",
@@ -781,16 +781,16 @@
     "JP": {
       "name_en": "Japan",
       "name_zh": "日本",
-      "ipv4_cidrs": 3783,
-      "ipv6_cidrs": 825,
-      "total_cidrs": 4608
+      "ipv4_cidrs": 3784,
+      "ipv6_cidrs": 823,
+      "total_cidrs": 4607
     },
     "KE": {
       "name_en": "Kenya",
       "name_zh": "肯尼亚",
-      "ipv4_cidrs": 441,
-      "ipv6_cidrs": 186,
-      "total_cidrs": 627
+      "ipv4_cidrs": 442,
+      "ipv6_cidrs": 187,
+      "total_cidrs": 629
     },
     "KG": {
       "name_en": "Kyrgyzstan",
@@ -837,9 +837,9 @@
     "KR": {
       "name_en": "South Korea",
       "name_zh": "韩国",
-      "ipv4_cidrs": 1637,
-      "ipv6_cidrs": 191,
-      "total_cidrs": 1828
+      "ipv4_cidrs": 1636,
+      "ipv6_cidrs": 197,
+      "total_cidrs": 1833
     },
     "KW": {
       "name_en": "Kuwait",
@@ -858,9 +858,9 @@
     "KZ": {
       "name_en": "Kazakhstan",
       "name_zh": "哈萨克斯坦",
-      "ipv4_cidrs": 1028,
+      "ipv4_cidrs": 1034,
       "ipv6_cidrs": 111,
-      "total_cidrs": 1139
+      "total_cidrs": 1145
     },
     "LA": {
       "name_en": "Laos",
@@ -914,9 +914,9 @@
     "LT": {
       "name_en": "Lithuania",
       "name_zh": "立陶宛",
-      "ipv4_cidrs": 2362,
+      "ipv4_cidrs": 2368,
       "ipv6_cidrs": 420,
-      "total_cidrs": 2782
+      "total_cidrs": 2788
     },
     "LU": {
       "name_en": "Luxembourg",
@@ -1082,9 +1082,9 @@
     "MX": {
       "name_en": "Mexico",
       "name_zh": "墨西哥",
-      "ipv4_cidrs": 1281,
+      "ipv4_cidrs": 1282,
       "ipv6_cidrs": 244,
-      "total_cidrs": 1525
+      "total_cidrs": 1526
     },
     "MY": {
       "name_en": "Malaysia",
@@ -1145,16 +1145,16 @@
     "NL": {
       "name_en": "Netherlands",
       "name_zh": "荷兰",
-      "ipv4_cidrs": 11723,
-      "ipv6_cidrs": 5334,
-      "total_cidrs": 17057
+      "ipv4_cidrs": 11752,
+      "ipv6_cidrs": 5336,
+      "total_cidrs": 17088
     },
     "NO": {
       "name_en": "Norway",
       "name_zh": "挪威",
-      "ipv4_cidrs": 1460,
+      "ipv4_cidrs": 1455,
       "ipv6_cidrs": 521,
-      "total_cidrs": 1981
+      "total_cidrs": 1976
     },
     "NP": {
       "name_en": "Nepal",
@@ -1201,9 +1201,9 @@
     "PE": {
       "name_en": "Peru",
       "name_zh": "秘鲁",
-      "ipv4_cidrs": 508,
+      "ipv4_cidrs": 509,
       "ipv6_cidrs": 271,
-      "total_cidrs": 779
+      "total_cidrs": 780
     },
     "PF": {
       "name_en": "French Polynesia",
@@ -1222,23 +1222,23 @@
     "PH": {
       "name_en": "Philippines",
       "name_zh": "菲律宾",
-      "ipv4_cidrs": 1101,
+      "ipv4_cidrs": 1099,
       "ipv6_cidrs": 494,
-      "total_cidrs": 1595
+      "total_cidrs": 1593
     },
     "PK": {
       "name_en": "Pakistan",
       "name_zh": "巴基斯坦",
-      "ipv4_cidrs": 926,
+      "ipv4_cidrs": 918,
       "ipv6_cidrs": 357,
-      "total_cidrs": 1283
+      "total_cidrs": 1275
     },
     "PL": {
       "name_en": "Poland",
       "name_zh": "波兰",
-      "ipv4_cidrs": 4333,
+      "ipv4_cidrs": 4334,
       "ipv6_cidrs": 1226,
-      "total_cidrs": 5559
+      "total_cidrs": 5560
     },
     "PM": {
       "name_en": "Saint Pierre and Miquelon",
@@ -1299,23 +1299,23 @@
     "RO": {
       "name_en": "Romania",
       "name_zh": "罗马尼亚",
-      "ipv4_cidrs": 4927,
-      "ipv6_cidrs": 577,
-      "total_cidrs": 5504
+      "ipv4_cidrs": 4930,
+      "ipv6_cidrs": 578,
+      "total_cidrs": 5508
     },
     "RS": {
       "name_en": "Serbia",
       "name_zh": "塞尔维亚",
-      "ipv4_cidrs": 529,
+      "ipv4_cidrs": 537,
       "ipv6_cidrs": 134,
-      "total_cidrs": 663
+      "total_cidrs": 671
     },
     "RU": {
       "name_en": "Russia",
       "name_zh": "俄罗斯",
-      "ipv4_cidrs": 10733,
+      "ipv4_cidrs": 10745,
       "ipv6_cidrs": 2383,
-      "total_cidrs": 13116
+      "total_cidrs": 13128
     },
     "RW": {
       "name_en": "Rwanda",
@@ -1341,9 +1341,9 @@
     "SC": {
       "name_en": "Seychelles",
       "name_zh": "塞舌尔",
-      "ipv4_cidrs": 1067,
+      "ipv4_cidrs": 1047,
       "ipv6_cidrs": 1078,
-      "total_cidrs": 2145
+      "total_cidrs": 2125
     },
     "SD": {
       "name_en": "Sudan",
@@ -1355,16 +1355,16 @@
     "SE": {
       "name_en": "Sweden",
       "name_zh": "瑞典",
-      "ipv4_cidrs": 2389,
-      "ipv6_cidrs": 968,
-      "total_cidrs": 3357
+      "ipv4_cidrs": 2385,
+      "ipv6_cidrs": 969,
+      "total_cidrs": 3354
     },
     "SG": {
       "name_en": "Singapore",
       "name_zh": "新加坡",
-      "ipv4_cidrs": 3228,
+      "ipv4_cidrs": 3237,
       "ipv6_cidrs": 885,
-      "total_cidrs": 4113
+      "total_cidrs": 4122
     },
     "SH": {
       "name_en": "Saint Helena, Ascension and Tristan da Cunha",
@@ -1453,9 +1453,9 @@
     "SY": {
       "name_en": "Syria",
       "name_zh": "叙利亚",
-      "ipv4_cidrs": 237,
+      "ipv4_cidrs": 238,
       "ipv6_cidrs": 35,
-      "total_cidrs": 272
+      "total_cidrs": 273
     },
     "SZ": {
       "name_en": "Eswatini",
@@ -1488,16 +1488,16 @@
     "TH": {
       "name_en": "Thailand",
       "name_zh": "泰国",
-      "ipv4_cidrs": 960,
-      "ipv6_cidrs": 253,
-      "total_cidrs": 1213
+      "ipv4_cidrs": 962,
+      "ipv6_cidrs": 260,
+      "total_cidrs": 1222
     },
     "TJ": {
       "name_en": "Tajikistan",
       "name_zh": "塔吉克斯坦",
-      "ipv4_cidrs": 71,
+      "ipv4_cidrs": 72,
       "ipv6_cidrs": 26,
-      "total_cidrs": 97
+      "total_cidrs": 98
     },
     "TK": {
       "name_en": "Tokelau",
@@ -1537,9 +1537,9 @@
     "TR": {
       "name_en": "Turkey",
       "name_zh": "土耳其",
-      "ipv4_cidrs": 2291,
+      "ipv4_cidrs": 2287,
       "ipv6_cidrs": 882,
-      "total_cidrs": 3173
+      "total_cidrs": 3169
     },
     "TT": {
       "name_en": "Trinidad and Tobago",
@@ -1558,23 +1558,23 @@
     "TW": {
       "name_en": "Taiwan",
       "name_zh": "中国台湾",
-      "ipv4_cidrs": 958,
+      "ipv4_cidrs": 957,
       "ipv6_cidrs": 548,
-      "total_cidrs": 1506
+      "total_cidrs": 1505
     },
     "TZ": {
       "name_en": "Tanzania",
       "name_zh": "坦桑尼亚",
-      "ipv4_cidrs": 231,
+      "ipv4_cidrs": 232,
       "ipv6_cidrs": 84,
-      "total_cidrs": 315
+      "total_cidrs": 316
     },
     "UA": {
       "name_en": "Ukraine",
       "name_zh": "乌克兰",
-      "ipv4_cidrs": 3999,
-      "ipv6_cidrs": 756,
-      "total_cidrs": 4755
+      "ipv4_cidrs": 4002,
+      "ipv6_cidrs": 755,
+      "total_cidrs": 4757
     },
     "UG": {
       "name_en": "Uganda",
@@ -1586,9 +1586,9 @@
     "US": {
       "name_en": "United States",
       "name_zh": "美国",
-      "ipv4_cidrs": 51241,
-      "ipv6_cidrs": 17958,
-      "total_cidrs": 69199
+      "ipv4_cidrs": 51374,
+      "ipv6_cidrs": 18010,
+      "total_cidrs": 69384
     },
     "UY": {
       "name_en": "Uruguay",
@@ -1621,9 +1621,9 @@
     "VE": {
       "name_en": "Venezuela",
       "name_zh": "委内瑞拉",
-      "ipv4_cidrs": 568,
+      "ipv4_cidrs": 567,
       "ipv6_cidrs": 244,
-      "total_cidrs": 812
+      "total_cidrs": 811
     },
     "VG": {
       "name_en": "British Virgin Islands",
@@ -1642,9 +1642,9 @@
     "VN": {
       "name_en": "Vietnam",
       "name_zh": "越南",
-      "ipv4_cidrs": 1371,
+      "ipv4_cidrs": 1372,
       "ipv6_cidrs": 1036,
-      "total_cidrs": 2407
+      "total_cidrs": 2408
     },
     "VU": {
       "name_en": "Vanuatu",
@@ -1684,9 +1684,9 @@
     "ZA": {
       "name_en": "South Africa",
       "name_zh": "南非",
-      "ipv4_cidrs": 1983,
+      "ipv4_cidrs": 1984,
       "ipv6_cidrs": 575,
-      "total_cidrs": 2558
+      "total_cidrs": 2559
     },
     "ZM": {
       "name_en": "Zambia",

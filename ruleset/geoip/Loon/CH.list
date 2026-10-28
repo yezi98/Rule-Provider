@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: CH
 # 瑞士（Switzerland）
-# 数据日期: 2026-10-27
+# 数据日期: 2026-10-28
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 4031 条（IPv4: 3110 / IPv6: 921）
+# 规则统计: 共 4033 条（IPv4: 3110 / IPv6: 923）
 # ============================================================
 IP-CIDR,101.2.251.0/24,no-resolve
 IP-CIDR,102.129.226.0/24,no-resolve
@@ -3142,6 +3142,7 @@ IP-CIDR6,2001:678:1030::/48,no-resolve
 IP-CIDR6,2001:678:1110::/48,no-resolve
 IP-CIDR6,2001:678:1150::/48,no-resolve
 IP-CIDR6,2001:678:12a4::/48,no-resolve
+IP-CIDR6,2001:678:13ac::/48,no-resolve
 IP-CIDR6,2001:678:1c4::/48,no-resolve
 IP-CIDR6,2001:678:294::/48,no-resolve
 IP-CIDR6,2001:678:298::/48,no-resolve
@@ -3860,6 +3861,7 @@ IP-CIDR6,2a0d:3d40::/29,no-resolve
 IP-CIDR6,2a0d:5180::/29,no-resolve
 IP-CIDR6,2a0d:5240::/29,no-resolve
 IP-CIDR6,2a0d:5380::/29,no-resolve
+IP-CIDR6,2a0d:6300::/29,no-resolve
 IP-CIDR6,2a0d:6580::/29,no-resolve
 IP-CIDR6,2a0d:780::/29,no-resolve
 IP-CIDR6,2a0d:7a00::/29,no-resolve

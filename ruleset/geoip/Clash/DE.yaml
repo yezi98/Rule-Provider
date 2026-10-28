@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: DE
 # 德国（Germany）
-# 数据日期: 2026-10-27
+# 数据日期: 2026-10-28
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 14753 条（IPv4: 10784 / IPv6: 3969）
+# 规则统计: 共 14749 条（IPv4: 10776 / IPv6: 3973）
 # ============================================================
 payload:
   - IP-CIDR,100.42.176.0/20,no-resolve
@@ -808,6 +808,7 @@ payload:
   - IP-CIDR,149.242.0.0/15,no-resolve
   - IP-CIDR,149.244.0.0/16,no-resolve
   - IP-CIDR,149.245.221.0/24,no-resolve
+  - IP-CIDR,149.245.222.0/24,no-resolve
   - IP-CIDR,149.245.242.0/23,no-resolve
   - IP-CIDR,149.246.0.0/15,no-resolve
   - IP-CIDR,149.249.0.0/17,no-resolve
@@ -3761,7 +3762,6 @@ payload:
   - IP-CIDR,192.78.192.0/20,no-resolve
   - IP-CIDR,192.80.51.0/24,no-resolve
   - IP-CIDR,192.81.121.0/24,no-resolve
-  - IP-CIDR,192.81.230.0/24,no-resolve
   - IP-CIDR,192.82.241.0/24,no-resolve
   - IP-CIDR,192.83.229.0/24,no-resolve
   - IP-CIDR,192.84.220.0/23,no-resolve
@@ -9569,15 +9569,7 @@ payload:
   - IP-CIDR,85.232.189.0/24,no-resolve
   - IP-CIDR,85.233.0.0/18,no-resolve
   - IP-CIDR,85.234.64.0/24,no-resolve
-  - IP-CIDR,85.234.66.0/25,no-resolve
-  - IP-CIDR,85.234.66.128/26,no-resolve
-  - IP-CIDR,85.234.66.192/30,no-resolve
-  - IP-CIDR,85.234.66.197/32,no-resolve
-  - IP-CIDR,85.234.66.198/31,no-resolve
-  - IP-CIDR,85.234.66.200/29,no-resolve
-  - IP-CIDR,85.234.66.208/28,no-resolve
-  - IP-CIDR,85.234.66.224/27,no-resolve
-  - IP-CIDR,85.234.67.0/24,no-resolve
+  - IP-CIDR,85.234.66.0/23,no-resolve
   - IP-CIDR,85.234.78.0/23,no-resolve
   - IP-CIDR,85.234.82.0/24,no-resolve
   - IP-CIDR,85.234.91.0/24,no-resolve
@@ -11734,10 +11726,8 @@ payload:
   - IP-CIDR6,2606:6680:59::/48,no-resolve
   - IP-CIDR6,2606:c4c0::/48,no-resolve
   - IP-CIDR6,2606:e680:1010::/48,no-resolve
-  - IP-CIDR6,2606:e680:1020::/48,no-resolve
   - IP-CIDR6,2606:e680:1::/48,no-resolve
   - IP-CIDR6,2606:e680:2010::/48,no-resolve
-  - IP-CIDR6,2606:e680:2020::/48,no-resolve
   - IP-CIDR6,2607:b500:1::/48,no-resolve
   - IP-CIDR6,2607:b500:400::/39,no-resolve
   - IP-CIDR6,2607:f1c0:1000::/36,no-resolve
@@ -12847,12 +12837,14 @@ payload:
   - IP-CIDR6,2a06:9440::/29,no-resolve
   - IP-CIDR6,2a06:9500::/29,no-resolve
   - IP-CIDR6,2a06:9740::/29,no-resolve
+  - IP-CIDR6,2a06:9801:1000::/40,no-resolve
   - IP-CIDR6,2a06:9801:100::/47,no-resolve
   - IP-CIDR6,2a06:9801:111::/48,no-resolve
   - IP-CIDR6,2a06:9801:112::/48,no-resolve
   - IP-CIDR6,2a06:9801:1564::/48,no-resolve
   - IP-CIDR6,2a06:9801:1566::/48,no-resolve
   - IP-CIDR6,2a06:9801:156d::/48,no-resolve
+  - IP-CIDR6,2a06:9801:1592::/48,no-resolve
   - IP-CIDR6,2a06:9801:15bc::/48,no-resolve
   - IP-CIDR6,2a06:9801:1601::/48,no-resolve
   - IP-CIDR6,2a06:9801:1602::/47,no-resolve
@@ -13273,6 +13265,7 @@ payload:
   - IP-CIDR6,2a0a:6040:9000::/40,no-resolve
   - IP-CIDR6,2a0a:6040:af00::/40,no-resolve
   - IP-CIDR6,2a0a:6044:6403::/48,no-resolve
+  - IP-CIDR6,2a0a:6044:aa10::/48,no-resolve
   - IP-CIDR6,2a0a:6044:ab00::/41,no-resolve
   - IP-CIDR6,2a0a:6044:ab80::/42,no-resolve
   - IP-CIDR6,2a0a:6044:abc0::/44,no-resolve
@@ -13635,6 +13628,7 @@ payload:
   - IP-CIDR6,2a0c:b641:c90::/44,no-resolve
   - IP-CIDR6,2a0c:b641:e00::/47,no-resolve
   - IP-CIDR6,2a0c:b641:e90::/47,no-resolve
+  - IP-CIDR6,2a0c:b641:f61::/48,no-resolve
   - IP-CIDR6,2a0c:b642:900::/40,no-resolve
   - IP-CIDR6,2a0c:bb40::/29,no-resolve
   - IP-CIDR6,2a0c:be00::/29,no-resolve
@@ -14381,6 +14375,7 @@ payload:
   - IP-CIDR6,2a12:30c0::/29,no-resolve
   - IP-CIDR6,2a12:3480::/29,no-resolve
   - IP-CIDR6,2a12:3e80::/29,no-resolve
+  - IP-CIDR6,2a12:4840::/29,no-resolve
   - IP-CIDR6,2a12:4880::/29,no-resolve
   - IP-CIDR6,2a12:4946:a000::/40,no-resolve
   - IP-CIDR6,2a12:5880::/29,no-resolve
@@ -14388,6 +14383,7 @@ payload:
   - IP-CIDR6,2a12:5dc0::/29,no-resolve
   - IP-CIDR6,2a12:5e40::/29,no-resolve
   - IP-CIDR6,2a12:60c0::/29,no-resolve
+  - IP-CIDR6,2a12:6500::/29,no-resolve
   - IP-CIDR6,2a12:66c0::/29,no-resolve
   - IP-CIDR6,2a12:6740::/29,no-resolve
   - IP-CIDR6,2a12:6900::/32,no-resolve

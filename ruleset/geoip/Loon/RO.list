@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: RO
 # 罗马尼亚（Romania）
-# 数据日期: 2026-10-29
+# 数据日期: 2026-10-31
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 5480 条（IPv4: 4900 / IPv6: 580）
+# 规则统计: 共 5492 条（IPv4: 4912 / IPv6: 580）
 # ============================================================
 IP-CIDR,102.128.164.0/23,no-resolve
 IP-CIDR,102.129.146.0/24,no-resolve
@@ -544,7 +544,7 @@ IP-CIDR,153.52.124.0/24,no-resolve
 IP-CIDR,153.52.82.0/24,no-resolve
 IP-CIDR,153.52.95.0/24,no-resolve
 IP-CIDR,153.76.153.0/24,no-resolve
-IP-CIDR,153.76.157.0/24,no-resolve
+IP-CIDR,153.76.156.0/23,no-resolve
 IP-CIDR,153.76.192.0/24,no-resolve
 IP-CIDR,153.76.197.0/24,no-resolve
 IP-CIDR,153.76.201.0/24,no-resolve
@@ -1280,6 +1280,7 @@ IP-CIDR,185.214.104.0/22,no-resolve
 IP-CIDR,185.216.190.0/24,no-resolve
 IP-CIDR,185.216.32.0/22,no-resolve
 IP-CIDR,185.217.68.0/22,no-resolve
+IP-CIDR,185.218.2.0/24,no-resolve
 IP-CIDR,185.218.227.0/24,no-resolve
 IP-CIDR,185.219.160.0/23,no-resolve
 IP-CIDR,185.22.231.0/24,no-resolve
@@ -2302,7 +2303,7 @@ IP-CIDR,198.33.147.0/24,no-resolve
 IP-CIDR,198.33.151.0/24,no-resolve
 IP-CIDR,198.33.16.0/23,no-resolve
 IP-CIDR,198.33.177.0/24,no-resolve
-IP-CIDR,198.33.178.0/24,no-resolve
+IP-CIDR,198.33.178.0/23,no-resolve
 IP-CIDR,198.33.180.0/23,no-resolve
 IP-CIDR,198.33.183.0/24,no-resolve
 IP-CIDR,198.33.188.0/22,no-resolve
@@ -2513,7 +2514,7 @@ IP-CIDR,213.109.183.0/24,no-resolve
 IP-CIDR,213.111.176.0/24,no-resolve
 IP-CIDR,213.111.178.0/24,no-resolve
 IP-CIDR,213.111.182.0/23,no-resolve
-IP-CIDR,213.111.184.0/23,no-resolve
+IP-CIDR,213.111.185.0/24,no-resolve
 IP-CIDR,213.111.191.0/24,no-resolve
 IP-CIDR,213.134.11.0/24,no-resolve
 IP-CIDR,213.139.198.0/23,no-resolve
@@ -2704,6 +2705,7 @@ IP-CIDR,31.25.10.0/24,no-resolve
 IP-CIDR,31.40.224.0/22,no-resolve
 IP-CIDR,31.47.208.0/21,no-resolve
 IP-CIDR,31.5.0.0/16,no-resolve
+IP-CIDR,31.56.100.0/24,no-resolve
 IP-CIDR,31.56.119.0/24,no-resolve
 IP-CIDR,31.56.128.0/21,no-resolve
 IP-CIDR,31.56.136.0/23,no-resolve
@@ -2853,7 +2855,7 @@ IP-CIDR,38.95.108.0/22,no-resolve
 IP-CIDR,40.27.108.0/22,no-resolve
 IP-CIDR,40.27.116.0/22,no-resolve
 IP-CIDR,43.226.228.0/24,no-resolve
-IP-CIDR,43.226.230.0/24,no-resolve
+IP-CIDR,43.226.230.0/23,no-resolve
 IP-CIDR,43.228.156.0/24,no-resolve
 IP-CIDR,43.228.158.0/24,no-resolve
 IP-CIDR,43.230.56.0/22,no-resolve
@@ -2861,6 +2863,7 @@ IP-CIDR,44.30.106.0/24,no-resolve
 IP-CIDR,44.31.29.0/24,no-resolve
 IP-CIDR,44.31.31.0/24,no-resolve
 IP-CIDR,44.32.16.0/21,no-resolve
+IP-CIDR,44.32.167.0/24,no-resolve
 IP-CIDR,44.32.24.0/22,no-resolve
 IP-CIDR,44.32.28.0/22,no-resolve
 IP-CIDR,45.10.96.0/24,no-resolve
@@ -3175,6 +3178,7 @@ IP-CIDR,5.253.188.0/22,no-resolve
 IP-CIDR,5.253.204.0/22,no-resolve
 IP-CIDR,5.253.45.0/24,no-resolve
 IP-CIDR,5.253.52.0/22,no-resolve
+IP-CIDR,5.253.67.0/24,no-resolve
 IP-CIDR,5.35.208.0/21,no-resolve
 IP-CIDR,5.45.38.0/24,no-resolve
 IP-CIDR,5.61.60.0/22,no-resolve
@@ -3269,6 +3273,7 @@ IP-CIDR,74.118.124.0/22,no-resolve
 IP-CIDR,74.211.236.0/22,no-resolve
 IP-CIDR,74.91.61.0/24,no-resolve
 IP-CIDR,76.164.200.0/22,no-resolve
+IP-CIDR,77.111.119.0/24,no-resolve
 IP-CIDR,77.111.80.0/22,no-resolve
 IP-CIDR,77.232.192.0/19,no-resolve
 IP-CIDR,77.239.113.0/24,no-resolve
@@ -4249,14 +4254,21 @@ IP-CIDR,9.247.143.0/24,no-resolve
 IP-CIDR,9.247.16.0/24,no-resolve
 IP-CIDR,9.247.160.0/24,no-resolve
 IP-CIDR,9.247.179.0/24,no-resolve
+IP-CIDR,9.247.195.0/24,no-resolve
+IP-CIDR,9.247.201.0/24,no-resolve
+IP-CIDR,9.247.209.0/24,no-resolve
 IP-CIDR,9.247.24.0/24,no-resolve
 IP-CIDR,9.247.241.0/24,no-resolve
+IP-CIDR,9.247.247.0/24,no-resolve
 IP-CIDR,9.247.28.0/24,no-resolve
 IP-CIDR,9.247.34.0/24,no-resolve
 IP-CIDR,9.247.48.0/24,no-resolve
 IP-CIDR,9.247.5.0/24,no-resolve
+IP-CIDR,9.247.66.0/24,no-resolve
+IP-CIDR,9.247.72.0/24,no-resolve
+IP-CIDR,9.247.77.0/24,no-resolve
 IP-CIDR,9.247.8.0/23,no-resolve
-IP-CIDR,9.247.81.0/24,no-resolve
+IP-CIDR,9.247.80.0/23,no-resolve
 IP-CIDR,9.247.88.0/24,no-resolve
 IP-CIDR,90.84.208.0/21,no-resolve
 IP-CIDR,90.84.224.0/20,no-resolve

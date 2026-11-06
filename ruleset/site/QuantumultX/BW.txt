@@ -635,6 +635,7 @@ host-suffix, bmwblog.com
 host-suffix, bnctechnology.co.za
 host-suffix, bnrmakers.netlify.app
 host-suffix, bobsleddomesticglandular.com
+host-suffix, bokopred-dotfxg.manus.space
 host-suffix, bolde.com
 host-suffix, bona.co.za
 host-suffix, bongobongo.co.zm
@@ -2395,7 +2396,6 @@ host-suffix, manilatimes.net
 host-suffix, manipalcigna.com
 host-suffix, mansory.com
 host-suffix, manta.net
-host-suffix, manus.space
 host-suffix, manutd.com
 host-suffix, manybooks.net
 host-suffix, mapquest.com

@@ -2538,7 +2538,6 @@ host-suffix, manta.net
 host-suffix, mantlepackaging.co.uk
 host-suffix, manuals.plus
 host-suffix, manualslib.com
-host-suffix, manus.space
 host-suffix, manuscriptcentral.com
 host-suffix, marefa.org
 host-suffix, marketapp.org
@@ -2725,6 +2724,7 @@ host-suffix, modyplay.net
 host-suffix, modzmania.com
 host-suffix, mogambonlinestore.com
 host-suffix, moh.gov.sa
+host-suffix, mohiportal-jsykww9h.manus.space
 host-suffix, mojolauncher.ru
 host-suffix, mollygram.com
 host-suffix, momhd313.com

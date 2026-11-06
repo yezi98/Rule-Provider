@@ -2440,7 +2440,6 @@ host-suffix, manhwaden.com
 host-suffix, manomano.fr
 host-suffix, mansabank.com
 host-suffix, manuals.plus
-host-suffix, manus.space
 host-suffix, manuscry.com
 host-suffix, manutd.com
 host-suffix, manyvids.com
@@ -3563,6 +3562,7 @@ host-suffix, saradahentai.com
 host-suffix, sasdmtask.cc
 host-suffix, saskatchewan.ca
 host-suffix, satiapplication.com
+host-suffix, saubergield-rqwkpozb.manus.space
 host-suffix, saudinm.com
 host-suffix, savaneinspire.com
 host-suffix, saveclip.app

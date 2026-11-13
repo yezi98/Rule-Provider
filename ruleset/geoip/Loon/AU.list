@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: AU
 # 澳大利亚（Australia）
-# 数据日期: 2026-11-10
+# 数据日期: 2026-11-12
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 9429 条（IPv4: 7104 / IPv6: 2325）
+# 规则统计: 共 9432 条（IPv4: 7105 / IPv6: 2327）
 # ============================================================
 IP-CIDR,1.0.0.0/24,no-resolve
 IP-CIDR,1.0.4.0/22,no-resolve
@@ -4933,7 +4933,7 @@ IP-CIDR,203.2.96.0/20,no-resolve
 IP-CIDR,203.20.100.0/22,no-resolve
 IP-CIDR,203.20.104.0/24,no-resolve
 IP-CIDR,203.20.114.0/24,no-resolve
-IP-CIDR,203.20.125.0/24,no-resolve
+IP-CIDR,203.20.124.0/23,no-resolve
 IP-CIDR,203.20.128.0/22,no-resolve
 IP-CIDR,203.20.148.0/24,no-resolve
 IP-CIDR,203.20.16.0/24,no-resolve
@@ -6330,7 +6330,7 @@ IP-CIDR,218.100.80.0/22,no-resolve
 IP-CIDR,218.100.87.0/24,no-resolve
 IP-CIDR,218.185.0.0/17,no-resolve
 IP-CIDR,218.185.232.0/21,no-resolve
-IP-CIDR,218.214.0.0/15,no-resolve
+IP-CIDR,218.215.0.0/16,no-resolve
 IP-CIDR,218.33.64.0/20,no-resolve
 IP-CIDR,219.90.128.0/17,no-resolve
 IP-CIDR,220.101.0.0/17,no-resolve
@@ -6724,6 +6724,7 @@ IP-CIDR,45.126.24.0/22,no-resolve
 IP-CIDR,45.126.44.0/22,no-resolve
 IP-CIDR,45.127.172.0/22,no-resolve
 IP-CIDR,45.127.180.0/22,no-resolve
+IP-CIDR,45.127.28.0/22,no-resolve
 IP-CIDR,45.127.92.0/22,no-resolve
 IP-CIDR,45.128.12.0/24,no-resolve
 IP-CIDR,45.128.156.0/24,no-resolve
@@ -7868,8 +7869,10 @@ IP-CIDR6,2001:df7:d400::/48,no-resolve
 IP-CIDR6,2001:df7:d500::/47,no-resolve
 IP-CIDR6,2001:df7:d600::/48,no-resolve
 IP-CIDR6,2001:df7:d800::/48,no-resolve
+IP-CIDR6,2001:df7:d8c0::/47,no-resolve
 IP-CIDR6,2001:df7:d980::/48,no-resolve
 IP-CIDR6,2001:df7:da80::/48,no-resolve
+IP-CIDR6,2001:df7:dac0::/48,no-resolve
 IP-CIDR6,2001:df7:e800::/48,no-resolve
 IP-CIDR6,2001:df7:ea00::/48,no-resolve
 IP-CIDR6,2001:df7:ec00::/48,no-resolve
@@ -8218,7 +8221,6 @@ IP-CIDR6,2401:d1c0::/32,no-resolve
 IP-CIDR6,2401:d480::/31,no-resolve
 IP-CIDR6,2401:d6c0::/32,no-resolve
 IP-CIDR6,2401:d80::/32,no-resolve
-IP-CIDR6,2401:d9a0::/32,no-resolve
 IP-CIDR6,2401:da20::/32,no-resolve
 IP-CIDR6,2401:dac0::/32,no-resolve
 IP-CIDR6,2401:dc20::/32,no-resolve
@@ -8861,6 +8863,7 @@ IP-CIDR6,2407:fcc0::/32,no-resolve
 IP-CIDR6,2407:fd00::/32,no-resolve
 IP-CIDR6,2407:ffc0::/32,no-resolve
 IP-CIDR6,2408:2000::/24,no-resolve
+IP-CIDR6,2409:800::/25,no-resolve
 IP-CIDR6,2602:810:20e0::/48,no-resolve
 IP-CIDR6,2602:f5be::/36,no-resolve
 IP-CIDR6,2602:f7f8:5::/48,no-resolve

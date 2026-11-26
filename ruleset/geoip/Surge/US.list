@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: US
 # 美国（United States）
-# 数据日期: 2026-11-25
+# 数据日期: 2026-11-26
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 68802 条（IPv4: 51339 / IPv6: 17463）
+# 规则统计: 共 68808 条（IPv4: 51341 / IPv6: 17467）
 # ============================================================
 IP-CIDR,1.0.0.0/24,no-resolve
 IP-CIDR,1.1.1.0/24,no-resolve
@@ -21900,6 +21900,7 @@ IP-CIDR,193.227.227.0/24,no-resolve
 IP-CIDR,193.227.82.0/24,no-resolve
 IP-CIDR,193.227.99.0/24,no-resolve
 IP-CIDR,193.228.155.0/24,no-resolve
+IP-CIDR,193.228.201.0/24,no-resolve
 IP-CIDR,193.228.48.0/22,no-resolve
 IP-CIDR,193.23.118.0/24,no-resolve
 IP-CIDR,193.23.120.0/24,no-resolve
@@ -38240,6 +38241,7 @@ IP-CIDR,23.168.120.0/24,no-resolve
 IP-CIDR,23.168.124.0/24,no-resolve
 IP-CIDR,23.168.136.0/24,no-resolve
 IP-CIDR,23.168.144.0/23,no-resolve
+IP-CIDR,23.168.148.0/24,no-resolve
 IP-CIDR,23.168.152.0/24,no-resolve
 IP-CIDR,23.168.160.0/24,no-resolve
 IP-CIDR,23.168.168.0/24,no-resolve
@@ -53681,13 +53683,16 @@ IP-CIDR6,2602:81f:d000::/44,no-resolve
 IP-CIDR6,2602:81f:e000::/44,no-resolve
 IP-CIDR6,2602:81f:f000::/44,no-resolve
 IP-CIDR6,2602::/24,no-resolve
+IP-CIDR6,2602:f244::/40,no-resolve
+IP-CIDR6,2602:f245::/40,no-resolve
+IP-CIDR6,2602:f246::/40,no-resolve
+IP-CIDR6,2602:f247::/36,no-resolve
 IP-CIDR6,2602:f248::/40,no-resolve
 IP-CIDR6,2602:f249::/40,no-resolve
 IP-CIDR6,2602:f24b::/40,no-resolve
 IP-CIDR6,2602:f24c::/36,no-resolve
 IP-CIDR6,2602:f24d::/40,no-resolve
 IP-CIDR6,2602:f24e::/40,no-resolve
-IP-CIDR6,2602:f24f::/40,no-resolve
 IP-CIDR6,2602:f250::/40,no-resolve
 IP-CIDR6,2602:f251::/40,no-resolve
 IP-CIDR6,2602:f252::/40,no-resolve
@@ -57324,6 +57329,7 @@ IP-CIDR6,2604:de0::/32,no-resolve
 IP-CIDR6,2604:de40::/32,no-resolve
 IP-CIDR6,2604:de80::/32,no-resolve
 IP-CIDR6,2604:dec0::/32,no-resolve
+IP-CIDR6,2604:df00::/32,no-resolve
 IP-CIDR6,2604:df40::/32,no-resolve
 IP-CIDR6,2604:df80::/32,no-resolve
 IP-CIDR6,2604:dfc0::/32,no-resolve

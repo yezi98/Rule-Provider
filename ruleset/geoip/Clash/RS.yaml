@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: RS
 # 塞尔维亚（Serbia）
-# 数据日期: 2026-11-25
+# 数据日期: 2026-11-26
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 661 条（IPv4: 535 / IPv6: 126）
+# 规则统计: 共 662 条（IPv4: 535 / IPv6: 127）
 # ============================================================
 payload:
   - IP-CIDR,100.43.64.0/19,no-resolve
@@ -545,6 +545,7 @@ payload:
   - IP-CIDR6,2001:678:404::/48,no-resolve
   - IP-CIDR6,2001:67c:2210::/48,no-resolve
   - IP-CIDR6,2001:67c:22f0::/48,no-resolve
+  - IP-CIDR6,2001:67c:29ac::/48,no-resolve
   - IP-CIDR6,2001:67c:2b2c::/48,no-resolve
   - IP-CIDR6,2001:67c:69c::/48,no-resolve
   - IP-CIDR6,2001:67c:b4c::/48,no-resolve

@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: SG
 # 新加坡（Singapore）
-# 数据日期: 2026-11-25
+# 数据日期: 2026-11-26
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 4028 条（IPv4: 3234 / IPv6: 794）
+# 规则统计: 共 4031 条（IPv4: 3236 / IPv6: 795）
 # ============================================================
 payload:
   - IP-CIDR,1.178.32.0/19,no-resolve
@@ -846,6 +846,7 @@ payload:
   - IP-CIDR,119.8.0.0/16,no-resolve
   - IP-CIDR,119.81.0.0/16,no-resolve
   - IP-CIDR,120.160.0.0/12,no-resolve
+  - IP-CIDR,120.176.0.0/13,no-resolve
   - IP-CIDR,120.50.32.0/20,no-resolve
   - IP-CIDR,120.51.96.0/19,no-resolve
   - IP-CIDR,120.72.64.0/23,no-resolve
@@ -992,6 +993,7 @@ payload:
   - IP-CIDR,141.193.154.0/24,no-resolve
   - IP-CIDR,141.193.22.0/24,no-resolve
   - IP-CIDR,141.226.245.0/24,no-resolve
+  - IP-CIDR,141.229.80.0/23,no-resolve
   - IP-CIDR,142.228.154.0/23,no-resolve
   - IP-CIDR,142.228.64.0/23,no-resolve
   - IP-CIDR,142.248.136.0/22,no-resolve
@@ -3428,6 +3430,7 @@ payload:
   - IP-CIDR6,2001:df7:a400::/47,no-resolve
   - IP-CIDR6,2001:df7:b800::/48,no-resolve
   - IP-CIDR6,2001:df7:c000::/46,no-resolve
+  - IP-CIDR6,2001:df7:eac0::/48,no-resolve
   - IP-CIDR6,2001:fc0::/32,no-resolve
   - IP-CIDR6,2400:1100::/32,no-resolve
   - IP-CIDR6,2400:1120::/32,no-resolve

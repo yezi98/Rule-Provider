@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: BD
 # 孟加拉国（Bangladesh）
-# 数据日期: 2026-11-25
+# 数据日期: 2026-11-26
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 4337 条（IPv4: 2640 / IPv6: 1697）
+# 规则统计: 共 4339 条（IPv4: 2641 / IPv6: 1698）
 # ============================================================
 payload:
   - IP-CIDR,101.1.16.0/23,no-resolve
@@ -1627,6 +1627,7 @@ payload:
   - IP-CIDR,141.229.62.0/23,no-resolve
   - IP-CIDR,141.229.64.0/23,no-resolve
   - IP-CIDR,141.229.76.0/23,no-resolve
+  - IP-CIDR,141.229.82.0/23,no-resolve
   - IP-CIDR,143.14.35.0/24,no-resolve
   - IP-CIDR,143.20.35.0/24,no-resolve
   - IP-CIDR,143.203.133.0/24,no-resolve
@@ -3352,7 +3353,6 @@ payload:
   - IP-CIDR6,2001:df5:d3c0::/48,no-resolve
   - IP-CIDR6,2001:df5:d5c0::/48,no-resolve
   - IP-CIDR6,2001:df5:d840::/48,no-resolve
-  - IP-CIDR6,2001:df5:d940::/48,no-resolve
   - IP-CIDR6,2001:df5:db40::/48,no-resolve
   - IP-CIDR6,2001:df5:dec0::/48,no-resolve
   - IP-CIDR6,2001:df5:e2c0::/48,no-resolve
@@ -3958,6 +3958,8 @@ payload:
   - IP-CIDR6,2402:80e0::/32,no-resolve
   - IP-CIDR6,2402:8320::/32,no-resolve
   - IP-CIDR6,2402:8340::/32,no-resolve
+  - IP-CIDR6,2402:8460::/32,no-resolve
+  - IP-CIDR6,2402:84a0::/32,no-resolve
   - IP-CIDR6,2402:8640::/32,no-resolve
   - IP-CIDR6,2402:88c0::/32,no-resolve
   - IP-CIDR6,2402:9040::/32,no-resolve

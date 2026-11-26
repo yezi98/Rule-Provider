@@ -1,7 +1,7 @@
 # ============================================================
 # Rule-Provider: AU
 # 澳大利亚（Australia）
-# 数据日期: 2026-11-25
+# 数据日期: 2026-11-26
 # 数据来源: APNIC + IPtoASN
 # 规则统计: 共 9430 条（IPv4: 7104 / IPv6: 2326）
 # ============================================================
@@ -1690,7 +1690,6 @@ IP-CIDR,103.70.72.0/22,no-resolve
 IP-CIDR,103.71.206.0/23,no-resolve
 IP-CIDR,103.71.27.0/24,no-resolve
 IP-CIDR,103.72.108.0/24,no-resolve
-IP-CIDR,103.72.201.0/24,no-resolve
 IP-CIDR,103.72.202.0/23,no-resolve
 IP-CIDR,103.72.210.0/23,no-resolve
 IP-CIDR,103.72.62.0/23,no-resolve
@@ -2628,7 +2627,7 @@ IP-CIDR,140.168.128.0/18,no-resolve
 IP-CIDR,140.168.192.0/19,no-resolve
 IP-CIDR,140.168.224.0/20,no-resolve
 IP-CIDR,140.168.240.0/21,no-resolve
-IP-CIDR,140.168.248.0/22,no-resolve
+IP-CIDR,140.168.250.0/23,no-resolve
 IP-CIDR,140.253.0.0/16,no-resolve
 IP-CIDR,140.79.0.0/16,no-resolve
 IP-CIDR,140.83.0.0/16,no-resolve
@@ -3698,6 +3697,7 @@ IP-CIDR,192.76.122.0/24,no-resolve
 IP-CIDR,192.76.194.0/24,no-resolve
 IP-CIDR,192.76.206.0/24,no-resolve
 IP-CIDR,192.76.228.0/24,no-resolve
+IP-CIDR,192.82.132.0/24,no-resolve
 IP-CIDR,192.82.140.0/24,no-resolve
 IP-CIDR,192.82.143.0/24,no-resolve
 IP-CIDR,192.82.161.0/24,no-resolve

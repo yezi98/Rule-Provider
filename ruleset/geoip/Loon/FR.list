@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: FR
 # 法国（France）
-# 数据日期: 2026-11-25
+# 数据日期: 2026-11-26
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 7915 条（IPv4: 5999 / IPv6: 1916）
+# 规则统计: 共 7918 条（IPv4: 6001 / IPv6: 1917）
 # ============================================================
 IP-CIDR,1.178.224.0/19,no-resolve
 IP-CIDR,1.179.112.0/20,no-resolve
@@ -5750,6 +5750,7 @@ IP-CIDR,91.233.68.0/24,no-resolve
 IP-CIDR,91.234.104.0/22,no-resolve
 IP-CIDR,91.234.194.0/23,no-resolve
 IP-CIDR,91.234.236.0/24,no-resolve
+IP-CIDR,91.234.244.0/24,no-resolve
 IP-CIDR,91.234.9.0/24,no-resolve
 IP-CIDR,91.235.138.0/24,no-resolve
 IP-CIDR,91.235.141.0/24,no-resolve
@@ -5780,6 +5781,7 @@ IP-CIDR,91.239.188.0/24,no-resolve
 IP-CIDR,91.239.54.0/24,no-resolve
 IP-CIDR,91.239.56.0/24,no-resolve
 IP-CIDR,91.240.109.0/24,no-resolve
+IP-CIDR,91.240.203.0/24,no-resolve
 IP-CIDR,91.240.228.0/24,no-resolve
 IP-CIDR,91.240.241.0/24,no-resolve
 IP-CIDR,91.240.32.0/24,no-resolve
@@ -7908,6 +7910,7 @@ IP-CIDR6,2a14:c80::/29,no-resolve
 IP-CIDR6,2a14:d000::/29,no-resolve
 IP-CIDR6,2a14:df80::/29,no-resolve
 IP-CIDR6,2a14:e000::/29,no-resolve
+IP-CIDR6,2a14:f00::/29,no-resolve
 IP-CIDR6,2a14:f100::/29,no-resolve
 IP-CIDR6,2a14:f400::/29,no-resolve
 IP-CIDR6,2a14:f705:c875::/48,no-resolve
